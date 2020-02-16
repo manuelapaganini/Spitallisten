@@ -1,0 +1,60 @@
+Source,Target,Weight,Standort
+FR,HFR,110,FR
+FR,"Insel, Insel Gruppe AG",59,BE
+FR,HIB,47,FR
+FR,CHUV,41,VD
+FR,Daler,32,FR
+FR,HUG,28,GE
+FR,Clinique Générale,26,FR
+FR,Klinik Bethesda,3,BE
+FR,"La-Chaux-de- Fonds, Hôpital neuchâtelois",3,NE
+FR,Petit Prince,1,FR
+SO,Universitäts-Kinderspital beider Basel,105,BS
+SO,Kantonsspital Baselland,88,BL
+SO,Solothurner Spitäler AG,85,SO
+SO,"Insel, Insel Gruppe AG",68,BE
+SO,Universitätsspital Basel,61,BS
+SO,Kantonsspital Aarau,31,AG
+SO,Privatklinik Obach,23,SO
+SO,Pallas Kliniken AG,19,SO
+SO,"Beau-Site, Hirslanden Bern AG",7,BE
+SO,St. Claraspital AG,6,BS
+SO,"Lindenhof, Lindenhof AG",2,BE
+SO,Hirslanden Klinik Aarau,2,AG
+SO,"Salem, Hirslanden Bern AG",1,BE
+SO,"Engeried, Lindenhof AG",1,BE
+BE,"Insel, Insel Gruppe AG",128,BE
+BE,"Lindenhof, Lindenhof AG",88,BE
+BE,"Biel, SZB AG",65,BE
+BE,"Thun, STS AG",57,BE
+BE,"Beau-Site, Hirslanden Bern AG",56,BE
+BE,"Interlaken, Spitäler fmi AG",55,BE
+BE,"Burgdorf, RSE AG",51,BE
+BE,"Langenthal, SRO AG",51,BE
+BE,"Biel, Hirslanden Klinik Linde AG Biel",48,BE
+BE,"Salem, Hirslanden Bern AG",46,BE
+BE,"Tiefenau, Insel Gruppe AG",44,BE
+BE,"Münsingen, Insel Gruppe AG",34,BE
+BE,"Langnau, RSE AG",31,BE
+BE,"St-Imier, Hôpital du Jura bernois SA",31,BE
+BE,"Engeried, Lindenhof AG",31,BE
+BE,Solothurner Spitäler AG,30,SO
+BE,"Sonnenhof, Lindenhof AG",28,BE
+BE,"Aarberg, Insel Gruppe AG",27,BE
+BE,"Riggisberg, Insel Gruppe AG",26,BE
+BE,"Gümligen, Swiss Medical Network Hospitals SA",26,BE
+BE,"Frutigen, Spitäler fmi AG",26,BE
+BE,"Moutier, Hôpital de Moutier SA",25,BE
+BE,"Permanence, Hirslanden Bern AG",20,BE
+BE,"Thun, Klinik Hohmad AG",15,BE
+BE,"Pourtalès, Hôpital neuchâtelois",13,NE
+BE,"Delémont, Hôpital du Jura SA",13,JU
+BE,"Zweisimmen, STS AG",12,BE
+BE,"Gümligen, Siloah AG",3,BE
+BE,"Oster- mundigen, GH
+Luna AG",2,BE
+BE,"Zweisimmen, GH Materinité Alpine",2,BE
+BE,Klinik Bethesda,2,BE
+BE,"La-Chaux-de- Fonds, Hôpital neuchâtelois",2,NE
+BE,"Bern, Stiftung Diaconis",1,BE
+BE,"Fond. ""La Chrysalide"", Hôpital neuchâtelois",1,NE

@@ -1,0 +1,286 @@
+Leistungsbereiche,Kürzel,Bezeichnung,HFR,Daler,Clinique Générale,HIB,Petit Prince,HNE,Klinik Bethesda,CHUV,Inselspital,HUG
+Basispaket,"BP  
+Basispaket Chirurgie und Innere Medizin",,x,x,,x,,,,,,
+"Programmiertes 
+Basispaket","BPE  
+Basispaket für elektive Leistungserbringer",,x,x,x,x,,,,,,
+Dermatologie,"DER1  
+Dermatologie (inkl. Geschlechtskrankheiten)",,x,x,,x,,,,,,x
+,"DER1.1  
+Dermatologische Onkologie",,x,x,,,,,,x,x,
+,"DER1.2  
+Schwere Hauterkrankungen",,x,,,,,,,,,
+,"DER2  
+Wundpatienten",,x,,x,x,,,,,,
+Hals-Nasen-Ohren,"HNO1  
+Hals-Nasen-Ohren (HNO-Chirurgie)",,x,x,x,x,,,,,,
+,"HNO1.1  
+Hals- und Gesichtschirurgie",,x,x,x,x,,,,,,
+,HNO1.1.1   Komplexe Halseingriffe (Interdisziplinäre Tumorchirurgie),,x,,,,,,,x,x,
+,"HNO1.2  
+Erweiterte Nasenchirurgie mit Nebenhöhlen",,x,x,x,x,,,,,,
+,"HNO1.2.1  
+Erweiterte  
+Nasenchirurgie,  
+Nebenhöhlen  
+mit  
+(interdisziplinäre Schädelbasischirurgie)",,"Duraeröffnung  
+ x",,,,,,,x,x,
+,"HNO1.3  
+Mittelohrchirurgie 
+(Tympanoplastik,  Mastoidchirurgie,  Osikuloplastik 
+inkl. Stapesoperationen)",,x,,x,,,,,,,
+,"HNO1.3.1  
+Erweiterte Ohrchirurgie mit Innenohr und/oder Duraeröffnung",,,,,,,,,x,x,x
+,HNO1.3.2   Cochlea-Implantate (IVHSM),,,,,,,,,,x,
+,"HNO2  
+Schild- und Nebenschilddrüsenchirurgie",,x,x,,x,,,,,,
+,"KIE1  
+Kieferchirurgie",,x,x,,,,,,,,"x 
+ x"
+Neurochirurgie,"NCH1  
+Kraniale Neurochirurgie",,x,,,,,,,,x,
+,"NCH1.1  
+Spezialisierte Neurochirurgie",,x,,,,,,,x,x,
+,"NCH2  
+Spinale Neurochirurgie",,x,,x,,,x,,x,x,
+,"NCH3  
+Periphere Neurochirurgie",,x,,x,,,,,x,x,
+Neurologie,"NEU1  
+Neurologie",,X,,,x,,,,,,
+,"NEU2  
+Sekundäre bösartige Neubildung des Nervensystems",,X,,,X,,,,,,x
+,"NEU2.1  
+Primäre Neubildung des ZNS (ohne Palliativpatienten)",,X,,,,,,,,x,
+,"NEU3  
+Zerebrovaskuläre Störungen",,X,,,x,,,,,,"x 
+ x 
+ x"
+,"NEU3.1  
+Zerebrovaskuläre Störungen im Stroke Center (IVHSM)",,,,,,,,,x,x,
+,"NEU4  
+Epileptologie: Komplex-Diagnostik",,X,,,,,,x,,x,
+,"NEU4.1  
+Epileptologie: Komplex-Behandlung",,X,,,,,,x,,x,
+Ophthalmologie,"AUG1  
+Ophtalmologie",,x,,,,,,,,x,
+,"AUG1.1  
+Strabologie",,X,,,,,,,,X,
+,"AUG1.2  
+Orbita, Lider, Tränenwege",,X,,,,,,,,X,
+,"AUG1.3  
+Spezialisierte Vordersegmentchirurgie",,X,,,,,,,,x,
+,"AUG1.4  
+Katarakt",,x,,,,,,,,,
+,"AUG1.5  
+Glaskörper/Netzhautprobleme",,X,,,,,,,,,
+Endokrinologie,"END1  
+Endokrinologie",,X,X,,X,,,,,,
+Gastroenterologie,"GAE1  
+Gastroenterologie",,X,X,,X,,,,,,
+,"GAE1.1  
+Spezialisierte Gastroenterologie",,X,,,X,,,,,,
+Viszeralchirurgie,"VIS1  
+Viszeralchirurgie",,X,X,,X,,,,,,"x 
+ x"
+,"VIS1.1  
+Grosse Pankreaseingriffe (IVHSM)",,X,,,,,,,X,x,
+,"VIS1.2  
+Grosse Lebereingriffe (IVHSM)",,,,,,,,,x,X,
+,"VIS1.3  
+Oesophaguschirurgie (IVHSM)",,X,,,,,,,X,x,
+,"VIS1.4  
+Bariatrische Chirurgie",,X,X,,x,,,,,,
+,"VIS1.4.1  
+Spezialisierte Bariatrische Chirurgie (IVHSM)",,X,,,,,,,,,
+,"VIS1.5  
+Tiefe Rektumeingriffe (IVHSM)",,X,,,,,,,,,
+Hämatologie,"HAE1  
+Aggressive Lymphome und akute Leukämien",,X,,,,,,,,,
+,"HAE1.1  
+Hoch-aggressive Lymphome u. akute Leukämien",,X,,,,,,,,,
+,"HAE2  
+Lymphome niedriger Malignität und chronische Leukämie",,x,,,x,,,,,,
+,"HAE3  
+Myeloproliferative Erkrankungen / Myelodysplastische Syndrome",,x,,,x,,,,,,
+,"HAE4  
+Autologe Blutstammzelltransplantation",,,,,,,,,x,X,x
+,"HAE5  
+Allogene Blutstammzelltransplantation (IVHSM)",,,,,,,,,,x,
+Gefässe,"GEF1  
+Gefässchirurgie periphere Gefässe (arteriell)",,X,,,,,,,,,
+,"ANG1  
+Interventionen periphere Gefässe (arteriell)",,X,x,,,,,,,,
+,"GEF2  
+Gefässchirurgie intraabdominale Gefässe",,X,,,,,,,,,
+,"ANG2  
+Interventionen intraabdominale Gefässe",,X,,,,,,,,,
+,"GEF3  
+Gefässchirurgie Carotis",,X,,,,,,,,,
+,"ANG3  
+Interventionen Carotis und extrakranielle Gefässe",,x,,,,,,,x,x,"x 
+ x"
+,"GEF4  
+Gefässchirurgie intrakranielle Gefässe (elektive Eingriffe, exkl. Stroke)",,,,,,,,,X,x,
+,"ANG4  
+Interventionen intrakranielle Gefässe (elektive Eingriffe, exkl. Stroke)",,,,,,,,,x,x,
+,"RAD1  
+Interventionelle Radiologie (bei Gefässen nur Diagnostik)",,x,x,,x,,,,,,
+Herz,"HER1  
+Einfache Herzchirurgie",,,,,,,,,x,x,"X 
+ x"
+,"HER1.1  
+Herzchirurgie und Gefässeingriffe mit Herzlungenmaschine",,,,,,,,,X,X,
+,"HER1.1.1  
+Koronarchirurgie (CABG)",,,,,,,,,X,X,
+,"HER1.1.2  
+Komplexe kongenitale Herzchirurgie",,,,,,,,,X,X,
+,"HER1.1.3  
+Chirurgie und Interventionen an der thorakalen Aorta",,,,,,,,,X,X,
+,"HER1.1.4  
+Offene Eingriffe an der Aortenklappe",,,,,,,,,x,x,
+,"HER1.1.5  
+Offene Eingriffe an der Mitralklappe",,,,,,,,,x,x,
+,"KAR1  
+Kardiologie (inkl. Schrittmacher)",,X,,,x,,,,,,
+,"KAR1.1  
+Interventionelle Kardiologie (Koronareingriffe)",,X,,,,,,,,X,
+,"KAR1.1.1  
+Interventionelle Kardiologie (Spezialeingriffe)",,X,,,,,,,,X,
+,"KAR1.2  
+Elektrophysiologie (Ablationen)",,X,,,,,,,x,x,
+,"KAR1.3  
+Implantierbarer Cardioverter Defibrillator / CRT",,X,,,X,,,,,,
+Nephrologie,"NEP1  
+Nephrologie (Nierenversagen)",,x,,,X,,,,,,
+Urologie,"URO1  
+Urologie ohne Schwerpunktstitel «Operative Urologie»",,x,x,x,x,,,,,,
+,"URO1.1  
+Urologie mit Schwerpunktstitel «Operative Urologie»",,x,x,,X,,,,,,
+,"URO1.1.1  
+Radikale Prostatektomie",,x,x,,,,,,,,
+,"URO1.1.2  
+Radikale Zystektomie",,x,x,,,,,,,,
+,URO1.1.3   Komplexe Chirurgie der Niere,,x,x,,,,,,,,
+,"URO1.1.4  
+Isolierte Adrenalektomie",,x,,,,,,,,,
+,"URO1.1.5  
+Plastische Rekonstruktion am pyeloureteralen Übergang",,x,x,,x,,,,,,
+,"URO1.1.6  
+Plastische Rekonstruktion der Urethra",,x,x,,,,,,,,
+,"URO1.1.7  
+Implantation eines künstlichen Harnblasensphinkters",,x,x,,x,,,,,,
+,"URO1.1.8  
+Perkut. Nephrostomie mit Desintegration von Steinmaterial",,x,x,,,,,,,,
+Pneumologie,"PNE1  
+Pneumologie",,x,,,x,,,,,,
+,"PNE1.1  
+Pneumologie mit spez. Beatmungstherapie",,x,,,x,,,,,,
+,"PNE1.2  
+Abklärung zur oder Status nach Lungentransplantation",,,,,,,,,x,x,x
+,"PNE1.3  
+Cystische Fibrose u. Primäre Pulmonale Hypertonie (kompl. Diagn.)",,X,,,,,,,x,x,
+,"PNE2  
+Polysomnographie",,X,,,,,,,x,x,
+Thoraxchirurgie,"THO1  
+Thoraxchirurgie",,X,,,,,,,,,
+,"THO1.1  
+Maligne Neoplasien des Atmungssystems (kurative Resektion)",,X,,,,,,,,,
+,"THO1.2  
+Mediastinaleingriffe",,x,,,,,,,,,
+Transplantationen,"TPL1  
+Herztransplantation (IVHSM)",,,,,,,,,X,x,
+,"TPL2  
+Lungentransplantation (IVHSM)",,,,,,,,,x,X,"X 
+ X 
+ x"
+,"TPL3  
+Lebertransplantation (IVHSM)",,,,,,,,,,X,
+,"TPL4  
+Pankreastransplantation (IVHSM)",,,,,,,,,,X,
+,"TPL5  
+Nierentransplantation (IVHSM)",,,,,,,,,x,X,
+,"TPL6  
+Darmtransplantation",,,,,,,,,,X,
+,"TPL7  
+Milztransplantation",,,,,,,,,,x,
+Orthopädie,"BEW1  
+Chirurgie Bewegungsapparat",,X,x,X,X,,,,,,
+,"BEW2  
+Orthopädie",,X,,X,X,,x,,,,
+,"BEW3  
+Handchirurgie",,X,x,X,,,,,,,
+,"BEW4  
+Arthroskopie der Schulter und des Ellbogens",,x,,x,x,,,,,,
+,"BEW5  
+Arthroskopie des Knies",,X,x,x,x,,,,,,
+,"BEW6  
+Rekonstruktion obere Extremität",,X,,X,X,,,,,,
+,"BEW7  
+Rekonstruktion untere Extremität",,X,,X,X,,,,,,
+,"BEW8  
+Wirbelsäulenchirurgie",,X,,X,,,,,,,
+,"BEW8.1  
+Spezialisierte Wirbelsäulenchirurgie",,X,,x,,,,,,,"X 
+ x"
+,"BEW9  
+Knochentumore",,,,,,,,,X,x,
+,"BEW10  
+Plexuschirurgie",,,,,,,,,X,X,
+,"BEW11  
+Replantationen",,,,,,,,,x,X,
+Rheumatologie,"RHE1  
+Rheumatologie",,X,,x,x,,,,,,
+,"RHE2  
+Interdisziplinäre Rheumatologie",,X,,,,,,,x,x,
+Gynäkologie,"GYN1  
+Gynäkologie",,X,x,x,x,,,,,,
+,"GYN1.1  
+Maligne Neoplasien der Vulva und Vagina",,X,,,,,,,,,
+,"GYN1.2  
+Maligne Neoplasien der Zervi x",,x,,,,,x,,x,x,
+,"GYN1.3  
+Maligne Neoplasien des Corpus uteri",,x,x,x,x,,,,,,
+,"GYN1.4  
+Maligne Neoplasien des Ovars",,x,,,x,,,,,,
+,"GYN2  
+Maligne Neoplasien der Mamma",,x,x,x,x,,,,,,
+,"PLC1  
+Eingriffe im Zusammenhang mit Transsexualität",,x,,,,,,,x,x,
+Geburtshilfe,"GEBH  
+Geburtshäuser (ab 37. SSW)",,,,,,x,,,,,
+,"GEB1  
+Grundversorgung Geburtshilfe (ab 34. SSW und ≥ 2000 g)",,x,x,,x,,,,,,
+,"GEB1.1  
+Geburtshilfe (ab 32. SSW und ≥ 1250 g)",,x,,,,,,,,,x
+,"GEB1.1.1  
+Spezialisierte Geburtshilfe",,,,,,,,,x,x,
+Neugeborene,"NEO1  
+Grundversorgung Neugeborene (ab GA 34 0/7 SSW und GG 2000 g)",,x,x,,x,,,,,,
+,"NEO1.1  
+Neonatologie (ab GA 32 0/7 SSW und GG 1250 g)",,x,,,,,,,,,x
+,"NEO1.1.1  
+Spezialisierte Neonatologie (ab GA 28 0/7 SSW und GG 1000 g)",,,,,,,,,,x,
+,NEO1.1.1.1  Hochspezialisierte Neonatologie (GA < 28 0/7 SSW und GG < 1000 g),,,,,,,,,x,x,
+(Radio-)Onkologie,"ONK1  
+Onkologie",,x,x,,x,,,,,,
+,"RAO1  
+Radio-Onkologie",,X,,,,,,,,,
+,"NUK1  
+Nuklearmedizin",,X,,,,,,,,,"x 
+ x"
+Schwere Verletzungen,"UNF1  
+Unfallchirurgie (Polytrauma)",,X,,,x,,,,,,
+,"UNF1.1  
+Spezialisierte Unfallchirurgie (Schädel-Hirn-Trauma)",,X,,,,,,,X,x,
+,"UNF2  
+Ausgedehnte Verbrennungen (IVHSM)",,,,,,,,,x,x,
+Querschnittsbereiche,"KINM  
+Kindermedizin",,X,,,X,,,,,,
+,"KINC  
+Kinderchirurgie",,X,,,X,,,,,,
+,"KINB  
+Basis-Kinderchirurgie",,X,x,x,,,,,,,
+,"GER  
+Akutgeriatrie Kompetenzzentrum",,X,,,x,,,,,,
+,Krisenstation,,x,,,,,,,,,

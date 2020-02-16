@@ -1,0 +1,92 @@
+,Leistungsbereiche,Leistungsgruppen,Pallas Kliniken AG,Privatklinik Obach,Solothurner Spitäler AG,Engeriedspital (Lindenhofgruppe),Hirslanden Klinik Aarau,Inselspital Bern (Insel Gruppe AG),Kantonsspital Aarau,Kantonsspital Baselland,Klinik Beau-Site (Hirslanden Bern AG),Lindenhofspital (Lindenhofgruppe),Salem-Spital (Hirslanden Bern AG),St. Claraspital AG,Universitäts-Kinderspital beider Basel,Universitätsspital Basel
+0,Basispaket,BP Basispaket Chirurgie und Innere Medizin,,,x,,,,,x,,,,,x,
+1,,BPE Basispaket für elektive Leistungserbringer,x,x,,,,,,,,,,,,
+2,,,,,,,,,,,,,,,,
+3,Dermatologie,DER1 Dermatologie (inkl. Geschlechtskrankheiten),b,,x,,,x,,x,,,,,x,
+4,,DER1.1 Dermatologische Onkologie,,,x,,,,,x,,,,,x,
+5,,DER1.2 Schwere Hauterkrankungen,,,,,,x,x,,,,,,x,x
+6,,DER2 Wundpatienten,,,x,,,,,x,,,,,x,
+7,Hals-Nasen Ohren,HNO1 Hals-Nasen-Ohren (HNO-Chirurgie),x,x,x,,,,,x,,,,,x,
+8,,HNO1.1 Hals- und Gesichtschirurgie,x,x,x,,,x,,x,,,,,x,
+9,,HNO1.1.1 Komplexe Halseingriffe (Interdisziplinäre Tumorchirurgie),,,,,,x,,x,,,,,x,
+10,,HNO1.2 Erweiterte Nasenchirurgie mit Nebenhöhlen,x,x,x,,,,,x,,,,,x,
+11,,"HNO1.2.1 Erweiterte Nasenchirurgie, Nebenhöhlen mit Duraeröffnung",,,,,,x,x,,,,,,x,x
+12,,HNO1.3 Mittelohrchirurgie,x,,x,,,x,,x,,,,,x,
+13,,HNO1.3.1 Erweiterte Ohrchirurgie mit Innenohr und/oder Duraeröffnung,,,,,,x,x,,,,,,x,x
+14,,HNO1.3.2 Cochlea Implantate,,,,,,HSM,,,,,,,,HSM
+15,,HNO2 Schild- und Nebenschilddrüsenchirurgie,,x,x,,,,,x,,,,,x,
+16,,KIE1 Kieferchirurgie,,x,x,,,,,x,,,,,x,
+17,Neurochirurgie,NCH1 Kraniale Neurochirurgie,,,,,,x,x,,,,,,x,x
+18,,NCH1.1 Spezialisierte Neurochirurgie,,,,,,x,x,,,,,,x,x
+19,,NCH1.1.1 Behandlungen von vaskulären Erkrankungen des ZNS,,,,,,,HSM HSM,,,,,,,HSM
+20,,NCH1.1.1.1  Behandlungen von komplexen vaskulären Anomalien des ZNS,,,,,,HSM,,,,,,,,HSM
+21,,NCH1.1.2 Stereotaktische funktionelle Neurochirurgie,,,,,,HSM,,,,,,,,HSM
+22,,NCH1.1.3 Epilepsiechirurgie,,,,,,,,,,,,,,HSM
+23,,NCH2 Spinale Neurochirurgie,,,,,,,,x,,,,,x,x
+24,,NCH2.1 Primäre und sekundäre intramedulläre Raumforderungen,,,,,,HSM,,,,,,,,HSM HSM
+25,,NCH3 Periphere Neurochirurgie,,,,,,x,,x,,,,,x,x
+26,Neurologie,NEU1 Neurologie,,,x,,,,,x,,,,,x,x
+27,,NEU2 Sekundäre bösartige Neubildung des Nervensystems,,,x,,,,,x,,,,,x,
+28,,NEU2.1 Primäre Neubildung des ZNS (ohne Palliativpatienten),,,x,,,,,x,,,,,x,x
+29,,NEU3 Zerebrovaskuläre Störungen,,,x,,,,,x,,,,,x,x
+30,,NEU3.1 Zerebrovaskuläre Störungen im Stroke Center,,,,,,,HSM HSM,,,,,,,HSM HSM
+31,,NEU4 Epileptologie: Komplex-Diagnostik,,,b,,,,,,,,,,x,x
+32,,NEU4.1 Epileptologie: Komplex-Behandlung,,,b,,,,,,,,,,,
+33,,NEU4.2 Epileptologie: Komplex-Diagnostik mit Intensivmonitoring,,,,,,,,,,,,,,HSM
+34,Ophthalmologie,AUG1 Ophthalmologie,x,,x,,,x,,x,,,,,x,
+35,,AUG1.1 Strabologie,x,,x,,,,,x,,,,,x,
+36,,"AUG1.2 Orbita, Lider, Tränenwege",x,,x,,,,,x,,,,,x,
+37,,AUG1.3 spezialisierte Vordersegmentchirurgie,x,,x,,,,,x,,,,,x,
+38,,AUG1.4 Katarakt,x,b,x,,,,,x,,,,,x,
+39,,AUG1.5 Glaskörper/Netzhautprobleme,x,,x,,,,,x,,,,,x,
+40,Endokrinologie,END1 Endokrinologie,,,x,,,,,x,,,,,x,
+41,Gastroenterologie,GAE1 Gastroenterologie,,x,x,,,,,x,,,,,x,
+42,,GAE1.1 Spezialisierte Gastroenterologie,,x,x,,,,,x,,,,,x,
+43,Viszeralchirurgie,VIS1 Viszeralchirurgie,,,x,,,x,,x,,,,,x,
+44,,VIS1.1 Grosse Pankreaseingriffe,,,HSM,,,HSM,HSM,HSM,HSM,,,,HSM HSM HSM,
+45,,VIS1.2 Grosse Lebereingriffe,,,,,,HSM,HSM,HSM,HSM,,,,HSM HSM HSM,
+46,,VIS1.3 Oesophaguschirurgie,,,,,,HSM,HSM,HSM,HSM,,,,HSM HSM HSM,
+47,,VIS1.4 Bariatrische Chirurgie,,,x,,,,,x,X,,,,,
+48,,VIS1.4.1 spezialisierte bariatrische Chirurgie,,,HSM,,,HSM,HSM,HSM,HSM,,,HSM,,HSM
+49,,VIS1.5 Tiefe Rektumeingriffe,,,HSM,,,HSM,HSM,HSM,HSM,,,,HSM HSM HSM,
+50,Hämatologie,HAE1 Aggressive Lymphome und akute Leukämien,,,x,,,x,x,x,,,,,x,x
+51,,HAE1.1 Hoch-aggressive Lymphome u. akute Leukämien,,,x,,,x,x,,,,,,x,x
+52,,HAE2 Indolente Lymphome und chronische Leukämien,,,x,,,x,,x,,,,,x,
+53,,HAE3 Myeloproliferative Erkrankungen / Myelodysplastische Syndrome,,,x,,,,,x,,,,,x,
+54,,HAE4 Autologe Blutstammzelltransplantation,,,,,,x,x,,,,,,x,x
+55,,HAE5 Allogene Blutstammzelltransplantation,,,,,,,,,,,,,,HSM HSM
+56,Gefäss,GEF1 Gefässchirurgie periphere Gefässe (arteriell),,,x,,,,,x,,,,,x,
+57,,ANG1 Interventionen periphere Gefässe (arteriell),,,x,,,,,x,,x,,,x,
+58,,GEFA Interventionen und Gefässchirurgie intraabdominale Gefässe,,,x,,,x,,x,,,,,x,
+59,,GEF3 Gefässchirurgie Carotis,,,x,,,x,x,x,,,,,x,
+60,,ANG3 Interventionen Carotis und extrakranielle Gefässe,,,,,,x,x,,,,,,x,x
+61,,RAD1 Interventionelle Radiologie (bei Gefässen nur Diagnostik),,,x,,,,,x,,,,,x,
+62,Herz,HER1 Einfache Herzchirurgie,,,,,,x,,,,,,,x,x
+63,,HER1.1 Herzchirurgie und Gefässeingriffe mit Herzlungenmaschine,,,,,,x,,,,,,,,x
+64,,HER1.1.1 Koronarchirurgie (CABG),,,,,,x,,,,,,,,x
+65,,HER1.1.2 Komplexe kongenitale Herzchirurgie,,,,,,x,,,,,,,,x
+66,,HER1.1.3 Chirurgie und Interventionen an der thorakalen Aorta,,,,,,x,,,,,,,,x
+67,,HER1.1.4 Offene Eingriffe an der Aortenklappe,,,,,,x,,,,,,,,x
+68,,HER1.1.5 Offene Eingriffe an der Mitralklappe,,,,,,x,,,,,,,,x
+69,,KAR1 Kardiologie (inkl. Schrittmacher),,,x,,,,,x,,,,,x,x
+70,,KAR1.1 Interventionelle Kardiologie (Koronareingriffe),,,x,,,,,x,,,,,,x
+71,,KAR1.1.1 Interventionelle Kardiologie (Spezialeingriffe),,,x,,,x,,x,,,,,,x
+72,,KAR1.2 Elektrophysiologie (Ablationen),,,x,,,x,,x,x,,,,x,x
+73,,KAR1.3 Implantierbarer Cardioverter Defibrillator / CRT,,,x,,,x,,x,,,,,x,x
+74,Nephrologie,NEP1 Nephrologie (Nierenversagen),,,x,,,,,x,,,,,x,
+75,Urologie,URO1 Urologie ohne Schwerpunktstitel 'Operative Urologie',x,x,x,,,,,x,,,,,x,
+76,,URO1.1 Urologie mit Schwerpunktstitel 'Operative Urologie',x,x,x,,,,,x,,,,,x,
+77,,URO1.1.1 Radikale Prostatektomie,,,b,,x,,,x,,x,,,,
+78,,URO1.1.2 Radikale Zystektomie,,,b,,,,,x,,,,,x,
+79,,URO1.1.3 Komplexe Chirurgie der Niere,,,x,,,,,x,,,,,x,
+80,,URO1.1.4 Isolierte Adrenalektomie,,,x,,,,,x,,,,,x,
+81,,URO1.1.7 Implantation eines künstlichen Harnblasensphinkters,,,,,,x,x,x,,,,,x,
+82,,URO1.1.8 Perkut. Nephrostomie mit Desintegration von Steinmat.,,,x,,,,,x,,,,,x,
+83,Pneumologie,PNE1 Pneumologie,,,x,,,,x,x,,,,,x,
+84,,PNE1.1 Pneumologie mit spez. Beatmungstherapie,,,x,,,,,x,,,,,x,
+85,,PNE1.2 Abklärung zur oder Status nach Lungentransplantation,,,,,,x,,,,,,,x,x
+86,,PNE1.3 Cystische Fibrose,,,,,,x,,x,,,,,x,x
+87,,PNE2 Polysomnographie,,,x,,,,,x,,,,,x,
+88,Thoraxchirurgie,THO1 Thoraxchirurgie,,,x,,,,,x,,,,,x,
+89,,THO1.1 Maligne Neoplasien des Atmungssystems (kurative Resektion),,,x,,,,,x,,,,,x,
+90,,THO1.2 Mediastinaleingriffe,,,x,,,,,x,,,,,x,

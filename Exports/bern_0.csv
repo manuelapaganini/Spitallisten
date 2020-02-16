@@ -1,0 +1,163 @@
+Hauptbereiche,Leistungsbereiche,Kürzel,Leistungsgruppen,"Insel, Insel Gruppe AG","Tiefenau, Insel Gruppe AG","Münsingen, Insel Gruppe AG","Aarberg, Insel Gruppe AG","Riggisberg, Insel Gruppe AG","Beau-Site, Hirslanden Bern AG","Permanence, Hirslanden Bern AG","Salem, Hirslanden Bern AG","Lindenhof, Lindenhof AG","Sonnenhof, Lindenhof AG","Engeried, Lindenhof AG","Gümligen, Siloah AG","Gümligen, Swiss Medical Network Hospitals SA","Bern, Stiftung Diaconis","Oster- mundigen, GH
+Luna AG","Interlaken, Spitäler fmi AG","Frutigen, Spitäler fmi AG","Thun, STS AG","Zweisimmen, STS AG","Thun, Klinik Hohmad AG","Zweisimmen, GH Materinité Alpine","Burgdorf, RSE AG","Langnau, RSE AG","Langenthal, SRO AG","Biel, SZB AG","Biel, Hirslanden Klinik Linde AG Biel","Tschugg, Bethesda","St-Imier, Hôpital du Jura bernois SA","Moutier, Hôpital de Moutier SA","Delémont, Hôpital du Jura SA","Bürger- spital Solothurn, SoH AG","Fond. ""La Chrysalide"", Hôpital neuchâtelois","Pourtalès, Hôpital neuchâtelois","La-Chaux-de- Fonds, Hôpital neuchâtelois"
+Basis,Basispaket,BP,Basispaket Chirurgie und Innere Medizin,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,0,0,1,1,1,1,1,0,1,1,1,1,0,1,1
+Basis,Basispaket,BPE,Basispaket für elektive Leistungserbringer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nervensystem & Sinnesorgane,Dermatologie,DER1,Dermatologie (inkl. Geschlechtskrankheiten),1,1,1,1,1,1,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,1,1,1,1,1,0,1,1,0,1,0,1,0
+Nervensystem & Sinnesorgane,Dermatologie,DER1.1,Dermatologische Onkologie,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+Nervensystem & Sinnesorgane,Dermatologie,DER1.2,Schwere Hauterkrankungen,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nervensystem & Sinnesorgane,Dermatologie,DER2,Wundpatienten,1,1,1,1,1,1,0,1,1,0,1,0,1,0,0,1,1,1,1,0,0,1,1,1,1,1,0,1,1,0,1,0,0,0
+Nervensystem & Sinnesorgane,Hals-Nasen-Ohren,HNO1,Hals-Nasen-Ohren (HNO-Chirurgie),1,1,1,0,1,1,1,1,1,0,1,0,1,0,0,1,0,1,0,0,0,1,1,1,1,1,0,0,0,1,1,0,0,0
+Nervensystem & Sinnesorgane,Hals-Nasen-Ohren,HNO1.1,Hals- und Gesichtschirurgie,1,1,1,0,1,0,1,1,1,0,1,0,1,0,0,1,0,1,0,0,0,1,1,1,1,1,0,0,0,1,1,0,0,0
+Nervensystem & Sinnesorgane,Hals-Nasen-Ohren,HNO1.1.1,"Komplexe Halseingriffe (Interdisziplinäre
+Tumorchirurgie)",1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nervensystem & Sinnesorgane,Hals-Nasen-Ohren,HNO1.2,Erweiterte Nasenchirurgie mit Nebenhöhlen,1,1,1,0,1,0,1,1,1,0,1,0,1,0,0,1,0,1,0,0,0,1,1,1,1,1,0,0,0,1,1,0,0,0
+Nervensystem & Sinnesorgane,Hals-Nasen-Ohren,HNO1.2.1,"Erweiterte Nasenchirurgie, Nebenhöhlen mit Duraeröffnung (interdisziplinäre
+Schädelbasischirurgie)",1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nervensystem & Sinnesorgane,Hals-Nasen-Ohren,HNO1.3,"Mittelohrchirurgie (Tympanoplastik, Mastoidchirurgie, Osikuloplastik inkl.
+Stapesoperationen)",1,1,1,0,0,0,1,1,1,0,1,0,1,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,1,0,0,0
+Nervensystem & Sinnesorgane,Hals-Nasen-Ohren,HNO1.3.1,"Erweiterte Ohrchirurgie mit Innenohr und/oder
+Duraeröffnung",1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nervensystem & Sinnesorgane,Hals-Nasen-Ohren,HNO1.3.2,Cochlea Implantate (IVHSM),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nervensystem & Sinnesorgane,Hals-Nasen-Ohren,HNO2,Schild- und Nebenschilddrüsenchirurgie,1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,1,1,0,0,1,0,1,0,0,0
+Nervensystem & Sinnesorgane,Hals-Nasen-Ohren,KIE1,Kieferchirurgie,1,0,0,0,0,0,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Nervensystem & Sinnesorgane,Neurochirurgie,NCH1,Kraniale Neurochirurgie,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nervensystem & Sinnesorgane,Neurochirurgie,NCH1.1,Spezialisierte Neurochirurgie,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nervensystem & Sinnesorgane,Neurochirurgie,NCH1.1.1,Behandlungen von vaskulären Erkrankungen des ZNS ohne die komplexen vaskulären Anomalien (IVHSM),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nervensystem & Sinnesorgane,Neurochirurgie,NCH1.1.1.1,"Behandlungen von komplexen vaskulären Anomalien
+des ZNS (IVHSM)",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nervensystem & Sinnesorgane,Neurochirurgie,NCH1.1.2,Stereotaktische funktionelle Neurochirurgie (IVHSM),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nervensystem & Sinnesorgane,Neurochirurgie,NCH1.1.3,Epilepsiechirurgie (IVHSM),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nervensystem & Sinnesorgane,Neurochirurgie,NCH2,Spinale Neurochirurgie,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nervensystem & Sinnesorgane,Neurochirurgie,NCH2.1,"Primäre und sekundäre intramedulläre
+Raumforderungen (IVHSM)",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nervensystem & Sinnesorgane,Neurochirurgie,NCH3,Periphere Neurochirurgie,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nervensystem & Sinnesorgane,Neurologie,NEU1,Neurologie,1,1,1,1,1,1,0,1,1,1,0,1,0,0,0,1,0,1,0,0,0,1,1,1,1,1,0,1,1,0,1,0,0,0
+Nervensystem & Sinnesorgane,Neurologie,NEU2,Sekundäre bösartige Neubildung des Nervensystems,1,1,0,0,0,1,0,1,1,1,1,0,0,0,0,1,1,1,0,0,0,1,1,1,1,1,0,1,1,0,1,0,0,0
+Nervensystem & Sinnesorgane,Neurologie,NEU2.1,Primäre Neubildung des Zentralnervensystems (ohne Palliativpatienten),1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nervensystem & Sinnesorgane,Neurologie,NEU3,Zerebrovaskuläre Störungen,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0
+Nervensystem & Sinnesorgane,Neurologie,NEU3.1,"Zerebrovaskuläre Störungen im Stroke Center
+(IVHSM)",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nervensystem & Sinnesorgane,Neurologie,NEU4,Epileptologie: Komplex-Diagnostik,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+Nervensystem & Sinnesorgane,Neurologie,NEU4.1,Epileptologie: Komplex-Behandlung,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Nervensystem & Sinnesorgane,Neurologie,NEU4.2,"Epileptologie: Komplex-Diagnostik mit
+Intensivmonitoring (IVHSM)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nervensystem & Sinnesorgane,Ophthalmologie,AUG1,Ophthalmologie,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nervensystem & Sinnesorgane,Ophthalmologie,AUG1.1,Strabologie,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nervensystem & Sinnesorgane,Ophthalmologie,AUG1.2,"Orbita, Lider, Tränenwerge",1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nervensystem & Sinnesorgane,Ophthalmologie,AUG1.3,Spezialisierte Vordersegementchirurgie,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nervensystem & Sinnesorgane,Ophthalmologie,AUG1.4,Katarakt,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nervensystem & Sinnesorgane,Ophthalmologie,AUG1.5,Glaskörper/Netzhautprobleme,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Innere Organe,Endokrinologie,END1,Endokrinologie,1,1,1,1,1,1,0,1,1,1,0,0,0,0,0,1,1,1,0,0,0,1,1,1,1,1,0,1,1,1,1,0,0,0
+Innere Organe,Gastroenterologie,GAE1,Gastroenterologie,1,1,1,1,1,1,1,1,1,1,0,0,1,0,0,1,1,1,0,0,0,1,0,1,1,1,0,1,1,0,1,0,1,0
+Innere Organe,Gastroenterologie,GAE1.1,Spezialisierte Gastroenterologie,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+Innere Organe,Viszeralchirurgie,VIS1,Viszeralchirurgie,1,1,0,0,1,1,0,1,1,0,0,0,1,0,0,1,0,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0
+Innere Organe,Viszeralchirurgie,VIS1.1,Grosse Pankreaseingriffe (IVHSM),1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Innere Organe,Viszeralchirurgie,VIS1.2,Grosse Lebereingriffe (IVHSM),1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Innere Organe,Viszeralchirurgie,VIS1.3,Oesophagusresektion (IVHSM),1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Innere Organe,Viszeralchirurgie,VIS1.4,Bariatrische Chirurgie,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0
+Innere Organe,Viszeralchirurgie,VIS1.4.1,Spezialisierte bariatrische Chirurgie (IVHSM),1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Innere Organe,Viszeralchirurgie,VIS1.5,Tiefe Rektumeingriffe (IVHSM),1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+Innere Organe,Hämatologie,HAE1,Aggressive Lymphome und akute Leukämien,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+Innere Organe,Hämatologie,HAE1.1,"Hochaggressive Lymphome und akute Leukämien mit
+kurativer Chemotherapie",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Innere Organe,Hämatologie,HAE2,Indolente Lymphome und chronische Leukämien,1,1,1,1,1,1,0,1,1,1,1,0,0,0,0,1,0,1,0,0,0,1,1,1,1,1,0,1,1,1,1,0,1,0
+Innere Organe,Hämatologie,HAE3,Myeloproliferative Erkrankungen und Myelodysplastische Syndrome,1,1,1,1,1,1,0,1,1,1,1,0,0,0,0,1,0,1,0,0,0,1,1,1,1,1,0,1,1,1,1,0,1,0
+Innere Organe,Hämatologie,HAE4,Autologe Blutstammzelltransplantation,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Innere Organe,Hämatologie,HAE5,"Allogene Blutstammzell-transplantation (IVHSM)
+(Erwachsene)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Innere Organe,Gefässe,GEF1,Gefässchirurgie periphere Gefässe (arteriell),1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+Innere Organe,Gefässe,ANG1,Interventionen periphere Gefässe (arteriell),1,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+Innere Organe,Gefässe,GEFA,"Interventionen und Gefässchirurgie intraabdominale
+Gefässe",1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Innere Organe,Gefässe,GEF3,Gefässchirurgie Carotis,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Innere Organe,Gefässe,ANG3,Interventionen Carotis und extrakranielle Gefässe,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Innere Organe,Gefässe,RAD1,"Interventionelle Radiologie (bei Gefässen nur
+Diagnostik)",1,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0
+Innere Organe (Fortsetzung),Herz,HER1,Einfache Herzchirurgie,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Innere Organe (Fortsetzung),Herz,HER1.1,Herzchirurgie und Gefässeingriffe mit Herzlungenmaschine (ohne Koronarchirurgie),1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Innere Organe (Fortsetzung),Herz,HER1.1.1,Koronarchirurgie (CABG),1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Innere Organe (Fortsetzung),Herz,HER1.1.2,Komplexe kongenitale Herzchirurgie,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Innere Organe (Fortsetzung),Herz,HER1.1.3,Chirurgie und Interventionen an der thorakalen Aorta,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Innere Organe (Fortsetzung),Herz,HER1.1.4,Offene Eingriffe an der Aortenklappe,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Innere Organe (Fortsetzung),Herz,HER1.1.5,Offene Eingriffe an der Mitralklappe,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Innere Organe (Fortsetzung),Herz,KAR1,Kardiologie (inkl. Schrittmacher),1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+Innere Organe (Fortsetzung),Herz,KAR1.1,Interventionelle Kardiologie (Koronareingriffe),1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Innere Organe (Fortsetzung),Herz,KAR1.1.1,Interventionelle Kardiologie (Spezialeingriffe),1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Innere Organe (Fortsetzung),Herz,KAR1.2,Elektrophysiologie (Ablationen),1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Innere Organe (Fortsetzung),Herz,KAR1.3,"Implantierbarer Cardioverter Defibrillator /
+Biventrikuläre Schrittmacher (CRT)",1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Innere Organe (Fortsetzung),Nephrologie,NEP1,Nephrologie (akute Nierenversagen wie auch chronisch terminales Nierenversagen),1,1,0,0,0,1,0,1,1,0,0,0,0,0,0,1,0,1,1,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0
+Innere Organe (Fortsetzung),Urologie,URO1,Urologie ohne Schwerpunktstitel 'Operative Urologie',1,0,0,1,0,1,0,1,1,0,0,0,1,0,0,1,0,1,0,1,0,1,1,1,1,1,0,1,0,0,0,0,0,0
+Innere Organe (Fortsetzung),Urologie,URO1.1,Urologie mit Schwerpunktstitel 'Operative Urologie',1,0,0,1,0,1,0,1,1,0,0,0,1,0,0,1,0,1,0,1,0,1,1,1,1,1,0,1,0,0,0,0,0,0
+Innere Organe (Fortsetzung),Urologie,URO1.1.1,Radikale Prostatektomie,1,0,0,0,0,1,0,1,1,0,0,0,1,0,0,1,0,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Innere Organe (Fortsetzung),Urologie,URO1.1.2,Radikale Zystektomie,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Innere Organe (Fortsetzung),Urologie,URO1.1.3,Komplexe Chirurgie der Niere (Tumornephrektomie und Nierenteilsektion),1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+Innere Organe (Fortsetzung),Urologie,URO1.1.4,Isolierte Adrenalektomie,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+Innere Organe (Fortsetzung),Urologie,URO1.1.7,Implantation eines künstlichen Harnblasensphinkters,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Innere Organe (Fortsetzung),Urologie,URO1.1.8,"Perkutane Nephrostomie mit Desintegration von
+Steinmaterial",1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+Innere Organe (Fortsetzung),Pneumologie,PNE1,Pneumologie,1,1,1,1,1,1,0,1,1,1,1,0,0,0,0,1,1,1,1,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0
+Innere Organe (Fortsetzung),Pneumologie,PNE1.1,Pneumologie mit spez. Beatmungstherapie,1,1,0,0,0,1,0,1,1,1,1,0,0,0,0,1,1,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0
+Innere Organe (Fortsetzung),Pneumologie,PNE1.2,"Abklärung zur oder Status nach
+Lungentransplantation",1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Innere Organe (Fortsetzung),Pneumologie,PNE1.3,Cystische Fibrose,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Innere Organe (Fortsetzung),Pneumologie,PNE2,Polysomnographie,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Innere Organe (Fortsetzung),Thoraxchirurgie,THO1,Thoraxchirurgie,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Innere Organe (Fortsetzung),Thoraxchirurgie,THO1.1,Maligne Neoplasien des Atmungssystems (kurative Resektion durch Lobektomie / Pneumonektomie),1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Innere Organe (Fortsetzung),Thoraxchirurgie,THO1.2,Mediastinaleingriffe,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Innere Organe (Fortsetzung),Transplantationen,TPL1,Herztransplantation (IVHSM),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Innere Organe (Fortsetzung),Transplantationen,TPL2,"Lungentransplantation (IVHSM,
+Lungentransplantation bei Kindern)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Innere Organe (Fortsetzung),Transplantationen,TPL3,Lebertransplantation (IVHSM),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Innere Organe (Fortsetzung),Transplantationen,TPL 4,Pankreastransplantation (IVHSM),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Innere Organe (Fortsetzung),Transplantationen,TPL 5,Nierentransplantation (IVHSM),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Innere Organe (Fortsetzung),Transplantationen,TPL6,Darmtransplantation,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Innere Organe (Fortsetzung),Transplantationen,TPL7,Milztransplantation,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bewegungs- apparat,Bewegungsapparat chirurgisch,BEW1,Chirurgie Bewegungsapparat,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,1,1,1,1,1,0,1,1,1,1,1,0,1,1,0,1,0,0,0
+Bewegungs- apparat,Bewegungsapparat chirurgisch,BEW2,Orthopädie,1,1,1,1,1,0,1,1,1,1,1,0,1,0,0,1,1,1,0,1,0,1,1,1,1,1,0,1,1,0,1,0,0,0
+Bewegungs- apparat,Bewegungsapparat chirurgisch,BEW3,Handchirurgie,1,1,1,1,0,0,1,1,1,1,1,0,1,0,0,1,1,1,0,0,0,1,1,1,1,1,0,0,1,0,1,0,0,0
+Bewegungs- apparat,Bewegungsapparat chirurgisch,BEW4,"Arthroskopie der Schulter und des
+Ellbogens",1,1,1,1,1,0,1,1,1,1,1,0,1,0,0,1,1,1,1,1,0,1,1,1,1,1,0,1,1,0,1,0,0,0
+Bewegungs- apparat,Bewegungsapparat chirurgisch,BEW5,Arthroskopie des Knies,1,1,1,1,1,0,1,1,1,1,1,0,1,0,0,1,1,1,1,1,0,1,1,1,1,1,0,1,1,0,1,0,0,0
+Bewegungs- apparat,Bewegungsapparat chirurgisch,BEW6,Rekonstruktion obere Extremität,1,1,1,1,1,0,1,1,1,1,1,0,1,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,1,0,0,0
+Bewegungs- apparat,Bewegungsapparat chirurgisch,BEW7,Rekonstruktion untere Extremität,1,1,1,1,1,0,1,1,1,1,1,0,1,0,0,1,1,1,1,1,0,1,1,1,1,1,0,0,0,0,1,0,0,0
+Bewegungs- apparat,Bewegungsapparat chirurgisch,BEW7.1,Elektive Erstprothese Hüfte,1,1,1,1,1,0,1,1,1,1,1,0,1,0,0,1,1,1,0,1,0,1,1,1,1,1,0,1,1,0,0,0,0,0
+Bewegungs- apparat,Bewegungsapparat chirurgisch,BEW7.2,Elektive Erstprothese Knie,1,1,1,1,1,0,1,1,1,1,1,0,1,0,0,1,1,1,0,1,0,1,1,1,1,1,0,1,1,0,0,0,0,0
+Bewegungs- apparat,Bewegungsapparat chirurgisch,BEW7.3,Wechseloperationen Hüft- und Knieprothesen,1,1,1,1,1,0,1,1,1,1,1,0,1,0,0,1,1,1,0,1,0,1,1,1,1,1,0,1,1,0,0,0,0,0
+Bewegungs- apparat,Bewegungsapparat chirurgisch,BEW8,Wirbelsäulenchirurgie,1,0,1,1,0,0,1,1,1,1,0,0,1,0,0,1,0,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0
+Bewegungs- apparat,Bewegungsapparat chirurgisch,BEW8.1,Spezialisierte Wirbelsäulenchirurgie,1,0,0,1,0,0,0,1,1,1,0,0,1,0,0,1,0,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0
+Bewegungs- apparat,Bewegungsapparat chirurgisch,BEW9,Knochentumore,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bewegungs- apparat,Bewegungsapparat chirurgisch,BEW10,Plexuschirurgie,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bewegungs- apparat,Bewegungsapparat chirurgisch,BEW11,Replantationen,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bewegungs- apparat,Rheumatologie,RHE1,Rheumatologie,1,1,1,1,1,0,1,1,1,1,0,0,0,0,0,1,1,1,0,0,0,1,1,1,1,1,0,1,0,0,0,0,0,0
+Bewegungs- apparat,Rheumatologie,RHE2,Interdisziplinäre Rheumatologie,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Gynäkologie & Geburtshilfe,Gynäkologie,GYN1,Gynäkologie,1,0,1,0,0,1,0,1,1,0,1,0,0,0,0,1,1,1,1,1,0,1,1,1,1,1,0,1,1,0,1,0,0,0
+Gynäkologie & Geburtshilfe,Gynäkologie,GYNT,Gynäkologische Tumoren,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gynäkologie & Geburtshilfe,Gynäkologie,GYN2,Maligne Neoplasien der Mamma,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,0,1,0,1,0,1,1,1,1,1,0,1,0,0,1,0,0,0
+Gynäkologie & Geburtshilfe,Gynäkologie,PLC1,Eingriffe im Zusammenhang mit Transsexualität,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gynäkologie & Geburtshilfe,Geburtshilfe,GEBH,Geburtshäuser (ab 37. SSW),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gynäkologie & Geburtshilfe,Geburtshilfe,GEB1,Grundversorgung Geburtshilfe (ab 35 0/7 SSW und >= 2000g),1,0,1,0,0,0,0,1,1,0,1,0,0,0,0,1,1,1,0,0,0,1,0,1,1,1,0,1,0,1,1,0,1,0
+Gynäkologie & Geburtshilfe,Geburtshilfe,GEB1.1,Geburtshilfe (ab 32 0/7 SSW und >= 1250g),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Gynäkologie & Geburtshilfe,Geburtshilfe,GEB1.1.1,Spezialisierte Geburtshilfe,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Gynäkologie & Geburtshilfe,Neugeborene,NEOG,"Grundversorgung Neugeborene Geburtshaus (ab 37.
+SSW und GG 2000g)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gynäkologie & Geburtshilfe,Neugeborene,NEO1,"Grundversorgung Neugeborene (ab 35 0/7 SSW und
+GG >= 2000g)",1,0,1,0,0,0,0,1,1,0,1,0,0,0,0,1,1,1,0,0,0,1,0,1,1,1,0,1,0,1,1,0,1,0
+Gynäkologie & Geburtshilfe,Neugeborene,NEO1.1,Neonatologie (ab GA 32 0/7 SSW und GG 1250g),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Gynäkologie & Geburtshilfe,Neugeborene,NEO1.1.1,"Spezialisierte Neonatologie (ab GA 28 0/7 SSW und
+GG 1000g)",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Gynäkologie & Geburtshilfe,Neugeborene,NEO1.1.1.1,"Hochspezialisierte Neonatologie (GA < 28 0/7 SSW
+und GG < 1000g)",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Übrige,(Radio-) Onkologie,ONK1,Onkologie,1,1,1,1,1,1,0,1,1,1,1,0,0,0,0,1,1,1,0,0,0,1,1,1,1,1,0,1,1,1,1,0,0,0
+Übrige,0,RAO1,Radio-Onkologie,1,0,0,0,0,1,0,0,1,1,1,0,0,0,0,1,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Übrige,0,NUK1,Nuklearmedizin,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Übrige,Schwere Verletzungen,UNF1,Unfallchirurgie (Polytrauma) (IVHSM),1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Übrige,Schwere Verletzungen,UNF1.1,"Spezialisierte Unfallchirurgie (Schädel-Hirn-Trauma)
+(IVHSM)",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Übrige,Schwere Verletzungen,UNF2,"Ausgedehnte Verbrennungen (IVHSM), Behandlung von schweren Verbrennungen bei Kindern (IVHSM)",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Querschnitts-bereiche,Querschnitts-bereiche,KINM,Kindermedizin,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0
+Querschnitts-bereiche,Querschnitts-bereiche,KINC,Kinderchirurgie,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Querschnitts-bereiche,Querschnitts-bereiche,KINB,Basis-Kinderchirurgie,0,1,1,1,1,0,1,1,1,1,1,0,1,0,0,1,0,1,1,0,0,1,0,1,0,0,0,1,1,1,1,0,1,0
+Querschnitts-bereiche,Querschnitts-bereiche,GER,Akutgeriatrie Kompetenzzentrum,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,1,0,0,0,1,1,1,1,1,0,1,1,0,0,0,0,1
+Querschnitts-bereiche,Querschnitts-bereiche,SpezPalCare,Spezialisierte Pallitaive Care im Spital,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0
+Querschnitts-bereiche,Querschnitts-bereiche,AVA,Akutsomatische Versorgung Abhängigkeitskranker,1,1,1,1,1,0,0,0,1,1,1,0,0,0,0,1,1,1,1,0,0,1,1,1,1,0,0,1,1,0,1,0,0,0

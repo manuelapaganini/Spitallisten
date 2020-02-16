@@ -1,0 +1,393 @@
+,Hauptbereiche,Leistungsbereiche,Kürzel,Leistungsgruppen,"Insel, Insel Gruppe AG","Tiefenau, Insel Gruppe AG","Münsingen, Insel Gruppe AG","Aarberg, Insel Gruppe AG","Riggisberg, Insel Gruppe AG","Beau-Site, Hirslanden Bern AG","Permanence, Hirslanden Bern AG","Salem, Hirslanden Bern AG","Lindenhof, Lindenhof AG","Sonnenhof, Lindenhof AG","Engeried, Lindenhof AG","Gümligen, Siloah AG","Gümligen, Swiss Medical Network Hospitals SA","Bern, Stiftung Diaconis","Oster- mundigen, GH
+Luna AG","Interlaken, Spitäler fmi AG","Frutigen, Spitäler fmi AG","Thun, STS AG","Zweisimmen, STS AG","Thun, Klinik Hohmad AG","Zweisimmen, GH Materinité Alpine","Burgdorf, RSE AG","Langnau, RSE AG","Langenthal, SRO AG","Biel, SZB AG","Biel, Hirslanden Klinik Linde AG Biel","Tschugg, Bethesda","St-Imier, Hôpital du Jura bernois SA","Moutier, Hôpital de Moutier SA","Delémont, Hôpital du Jura SA","Bürger- spital Solothurn, SoH AG","Fond. ""La Chrysalide"", Hôpital neuchâtelois","Pourtalès, Hôpital neuchâtelois","La-Chaux-de- Fonds, Hôpital neuchâtelois"
+4,Basis,Basispaket,BP,Basispaket Chirurgie und Innere Medizin,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,,TRUE,TRUE,TRUE,TRUE,,,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,TRUE,TRUE,TRUE,,TRUE,TRUE
+5,Basis,Basispaket,BPE,Basispaket für elektive Leistungserbringer,,,,,,,,,,,,,,,,,,,,TRUE,,,,,,,,,,,,,,
+6,Nervensystem & Sinnesorgane,Dermatologie,DER1,Dermatologie (inkl. Geschlechtskrankheiten),"befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)",,"befristet
+(30.04.2024)","befristet
+(30.04.2024)",,,,,,,"befristet
+(30.04.2024)",,"befristet
+(30.04.2024)",,,,"befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)",,"befristet
+(30.04.2024)","befristet
+(30.04.2024)",,"befristet
+(30.04.2024)",,"befristet
+(30.04.2024)",
+7,Nervensystem & Sinnesorgane,Dermatologie,DER1.1,Dermatologische Onkologie,TRUE,,,,,,,,"befristet
+(30.06.2020)",,,,,,,,,"befristet
+(30.06.2021)",,,,"befristet
+(30.06.2021)","befristet
+(30.06.2021)",,,TRUE,,,,,,,,
+8,Nervensystem & Sinnesorgane,Dermatologie,DER1.2,Schwere Hauterkrankungen,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,Nervensystem & Sinnesorgane,Dermatologie,DER2,Wundpatienten,"befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)",,"befristet
+(30.04.2024)","befristet
+(30.04.2024)",,"befristet
+(30.04.2024)",,"befristet
+(30.04.2024)",,,"befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)",,,"befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)",,"befristet
+(30.04.2024)","befristet
+(30.04.2024)",,"befristet
+(30.04.2024)",,,
+10,Nervensystem & Sinnesorgane,Hals-Nasen-Ohren,HNO1,Hals-Nasen-Ohren (HNO-Chirurgie),TRUE,TRUE,TRUE,,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,,TRUE,,,TRUE,,TRUE,,,,TRUE,TRUE,TRUE,TRUE,TRUE,,,,TRUE,TRUE,,,
+11,Nervensystem & Sinnesorgane,Hals-Nasen-Ohren,HNO1.1,Hals- und Gesichtschirurgie,TRUE,TRUE,TRUE,,TRUE,,TRUE,TRUE,TRUE,,TRUE,,TRUE,,,TRUE,,TRUE,,,,TRUE,TRUE,TRUE,TRUE,TRUE,,,,TRUE,TRUE,,,
+12,Nervensystem & Sinnesorgane,Hals-Nasen-Ohren,HNO1.1.1,"Komplexe Halseingriffe (Interdisziplinäre
+Tumorchirurgie)",TRUE,,,,,,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,
+13,Nervensystem & Sinnesorgane,Hals-Nasen-Ohren,HNO1.2,Erweiterte Nasenchirurgie mit Nebenhöhlen,TRUE,TRUE,TRUE,,TRUE,,TRUE,TRUE,TRUE,,TRUE,,TRUE,,,TRUE,,TRUE,,,,TRUE,TRUE,TRUE,TRUE,TRUE,,,,TRUE,TRUE,,,
+14,Nervensystem & Sinnesorgane,Hals-Nasen-Ohren,HNO1.2.1,"Erweiterte Nasenchirurgie, Nebenhöhlen mit Duraeröffnung (interdisziplinäre
+Schädelbasischirurgie)",TRUE,,,,,,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,
+15,Nervensystem & Sinnesorgane,Hals-Nasen-Ohren,HNO1.3,"Mittelohrchirurgie (Tympanoplastik, Mastoidchirurgie, Osikuloplastik inkl.
+Stapesoperationen)",TRUE,TRUE,TRUE,,,,TRUE,TRUE,TRUE,,TRUE,,TRUE,,,TRUE,,,,,,TRUE,,TRUE,,TRUE,,,,TRUE,TRUE,,,
+16,Nervensystem & Sinnesorgane,Hals-Nasen-Ohren,HNO1.3.1,"Erweiterte Ohrchirurgie mit Innenohr und/oder
+Duraeröffnung",TRUE,,,,,,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,
+17,Nervensystem & Sinnesorgane,Hals-Nasen-Ohren,HNO1.3.2,Cochlea Implantate (IVHSM),IVHSM-Leistungsauftrag		,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18,Nervensystem & Sinnesorgane,Hals-Nasen-Ohren,HNO2,Schild- und Nebenschilddrüsenchirurgie,TRUE,,"befristet
+(31.12.2019)",,,TRUE,,TRUE,TRUE,,,,,,,TRUE,,TRUE,,,,TRUE,,TRUE,TRUE,TRUE,,,TRUE,,TRUE,,,
+19,Nervensystem & Sinnesorgane,Hals-Nasen-Ohren,KIE1,Kieferchirurgie,TRUE,,,,,,TRUE,TRUE,TRUE,,TRUE,,TRUE,,,,,,,,,,,,TRUE,TRUE,,,,,,,,
+20,Nervensystem & Sinnesorgane,Neurochirurgie,NCH1,Kraniale Neurochirurgie,TRUE,,,,,,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,
+21,Nervensystem & Sinnesorgane,Neurochirurgie,NCH1.1,Spezialisierte Neurochirurgie,TRUE,,,,,,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,
+22,Nervensystem & Sinnesorgane,Neurochirurgie,NCH1.1.1,Behandlungen von vaskulären Erkrankungen des ZNS ohne die komplexen vaskulären Anomalien (IVHSM),IVHSM-Leistungsauftrag		,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23,Nervensystem & Sinnesorgane,Neurochirurgie,NCH1.1.1.1,"Behandlungen von komplexen vaskulären Anomalien
+des ZNS (IVHSM)",IVHSM-Leistungsauftrag		,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24,Nervensystem & Sinnesorgane,Neurochirurgie,NCH1.1.2,Stereotaktische funktionelle Neurochirurgie (IVHSM),IVHSM-Leistungsauftrag		,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25,Nervensystem & Sinnesorgane,Neurochirurgie,NCH1.1.3,Epilepsiechirurgie (IVHSM),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+26,Nervensystem & Sinnesorgane,Neurochirurgie,NCH2,Spinale Neurochirurgie,TRUE,,"befristet
+(31.12.2019)",,,,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,
+27,Nervensystem & Sinnesorgane,Neurochirurgie,NCH2.1,"Primäre und sekundäre intramedulläre
+Raumforderungen (IVHSM)",IVHSM-Leistungsauftrag		,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+28,Nervensystem & Sinnesorgane,Neurochirurgie,NCH3,Periphere Neurochirurgie,TRUE,,"befristet
+(31.12.2019)",,,,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,
+29,Nervensystem & Sinnesorgane,Neurologie,NEU1,Neurologie,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,TRUE,TRUE,,TRUE,,,,TRUE,,TRUE,,,,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,TRUE,,TRUE,,,
+30,Nervensystem & Sinnesorgane,Neurologie,NEU2,Sekundäre bösartige Neubildung des Nervensystems,TRUE,TRUE,,,,TRUE,,TRUE,TRUE,TRUE,TRUE,,,,,TRUE,TRUE,TRUE,,,,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,TRUE,,TRUE,,,
+31,Nervensystem & Sinnesorgane,Neurologie,NEU2.1,Primäre Neubildung des Zentralnervensystems (ohne Palliativpatienten),TRUE,,,,,TRUE,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,
+32,Nervensystem & Sinnesorgane,Neurologie,NEU3,Zerebrovaskuläre Störungen,TRUE,TRUE,,,,TRUE,,,TRUE,hängige Beschwerde,,,,,,TRUE,,TRUE,,,,TRUE,,TRUE,TRUE,,,,,,TRUE,,,
+33,Nervensystem & Sinnesorgane,Neurologie,NEU3.1,"Zerebrovaskuläre Störungen im Stroke Center
+(IVHSM)",IVHSM-Leistungsauftrag		,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+34,Nervensystem & Sinnesorgane,Neurologie,NEU4,Epileptologie: Komplex-Diagnostik,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,,,,TRUE,,,
+35,Nervensystem & Sinnesorgane,Neurologie,NEU4.1,Epileptologie: Komplex-Behandlung,"befristet
+(30.06.2020)",,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,,,,,,,
+36,Nervensystem & Sinnesorgane,Neurologie,NEU4.2,"Epileptologie: Komplex-Diagnostik mit
+Intensivmonitoring (IVHSM)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+37,Nervensystem & Sinnesorgane,Ophthalmologie,AUG1,Ophthalmologie,TRUE,,,,,,,,TRUE,,,,,,,,,,,,,hängige Beschwerde,,,,,,,,,,,,
+38,Nervensystem & Sinnesorgane,Ophthalmologie,AUG1.1,Strabologie,TRUE,,,,,,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,
+39,Nervensystem & Sinnesorgane,Ophthalmologie,AUG1.2,"Orbita, Lider, Tränenwerge",TRUE,,,,,,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,
+40,Nervensystem & Sinnesorgane,Ophthalmologie,AUG1.3,Spezialisierte Vordersegementchirurgie,TRUE,,,,,,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,
+41,Nervensystem & Sinnesorgane,Ophthalmologie,AUG1.4,Katarakt,TRUE,,,,,,,,TRUE,,,,,,,,,,,,,hängige Beschwerde,,,,,,,,,,,,
+42,Nervensystem & Sinnesorgane,Ophthalmologie,AUG1.5,Glaskörper/Netzhautprobleme,TRUE,,,,,,,,TRUE,,,,,,,,,,,,,hängige Beschwerde,,,,,,,,,,,,
+43,Innere Organe,Endokrinologie,END1,Endokrinologie,"befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)",,"befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)",,,,,,"befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)",,,,"befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)",,"befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)",,,
+44,Innere Organe,Gastroenterologie,GAE1,Gastroenterologie,"befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)",,,"befristet
+(30.04.2024)",,,"befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)",,,,"befristet
+(30.04.2024)",hängige Beschwerde,"befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)",,"befristet
+(30.04.2024)","befristet
+(30.04.2024)",,"befristet
+(30.04.2024)",,"befristet
+(30.04.2024)",
+45,Innere Organe,Gastroenterologie,GAE1.1,Spezialisierte Gastroenterologie,TRUE,TRUE,,,,TRUE,,,TRUE,,,,,,,TRUE,,TRUE,,,,TRUE,,TRUE,TRUE,,,,,,,,,
+46,Innere Organe,Viszeralchirurgie,VIS1,Viszeralchirurgie,TRUE,TRUE,,,"befristet
+(31.12.2019)",TRUE,,"befristet
+(30.06.2020)",TRUE,,,,TRUE,,,"befristet
+(30.06.2020)",,TRUE,,,,TRUE,hängige Beschwerde,TRUE,TRUE,TRUE,,,,,,,,
+47,Innere Organe,Viszeralchirurgie,VIS1.1,Grosse Pankreaseingriffe (IVHSM),IVHSM-Leistungsauftrag		,IVHSM-Leistungsauftrag		,,,,IVHSM-Leistungsauftrag		,,,IVHSM-Leistungsauftrag		,,,,,,,,,,,,,,,,IVHSM-Leistungsauftrag		,,,,,,,,,
+48,Innere Organe,Viszeralchirurgie,VIS1.2,Grosse Lebereingriffe (IVHSM),IVHSM-Leistungsauftrag		,,,,,IVHSM-Leistungsauftrag		,,,IVHSM-Leistungsauftrag		,,,,,,,,,,,,,,,,,,,,,,,,,
+49,Innere Organe,Viszeralchirurgie,VIS1.3,Oesophagusresektion (IVHSM),IVHSM-Leistungsauftrag		,,,,,IVHSM-Leistungsauftrag		,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50,Innere Organe,Viszeralchirurgie,VIS1.4,Bariatrische Chirurgie,TRUE,TRUE,,,,TRUE,,,TRUE,,,,,,,"befristet
+(30.06.2020), hängige Beschwerde",,TRUE,,,,,,TRUE,TRUE,TRUE,,,,,,,,
+51,Innere Organe,Viszeralchirurgie,VIS1.4.1,Spezialisierte bariatrische Chirurgie (IVHSM),IVHSM-Leistungsauftrag		,IVHSM-Leistungsauftrag		,,,,IVHSM-Leistungsauftrag		,,,IVHSM-Leistungsauftrag		,,,,,,,,,,,,,,,,IVHSM-Leistungsauftrag		,,,,,,,,,
+52,Innere Organe,Viszeralchirurgie,VIS1.5,Tiefe Rektumeingriffe (IVHSM),IVHSM-Leistungsauftrag		,IVHSM-Leistungsauftrag		,,,,IVHSM-Leistungsauftrag		,,,IVHSM-Leistungsauftrag		,,,,,,,,,IVHSM-Leistungsauftrag		,,,,IVHSM-Leistungsauftrag		,,IVHSM-Leistungsauftrag		,IVHSM-Leistungsauftrag		,,,,,,,,,
+53,Innere Organe,Hämatologie,HAE1,Aggressive Lymphome und akute Leukämien,TRUE,,,,,TRUE,,,TRUE,,,,,,,TRUE,,TRUE,,,,TRUE,,TRUE,TRUE,,,,,,,,,
+54,Innere Organe,Hämatologie,HAE1.1,"Hochaggressive Lymphome und akute Leukämien mit
+kurativer Chemotherapie",TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+55,Innere Organe,Hämatologie,HAE2,Indolente Lymphome und chronische Leukämien,"befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)",,"befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)",,,,,"befristet
+(30.04.2024)",,"befristet
+(30.04.2024)",,,,"befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)",,"befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)",,"befristet
+(30.04.2024)",
+56,Innere Organe,Hämatologie,HAE3,Myeloproliferative Erkrankungen und Myelodysplastische Syndrome,"befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)",,"befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)",,,,,"befristet
+(30.04.2024)",,"befristet
+(30.04.2024)",,,,"befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)",,"befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)",,"befristet
+(30.04.2024)",
+57,Innere Organe,Hämatologie,HAE4,Autologe Blutstammzelltransplantation,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+58,Innere Organe,Hämatologie,HAE5,"Allogene Blutstammzell-transplantation (IVHSM)
+(Erwachsene)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+59,Innere Organe,Gefässe,GEF1,Gefässchirurgie periphere Gefässe (arteriell),TRUE,,,,,"befristet
+(30.06.2020)",,,TRUE,,,,,,,,,TRUE,,,,,,,TRUE,TRUE,,"befristet
+(30.06.2021)",,,,,,
+60,Innere Organe,Gefässe,ANG 1.00,Interventionen periphere Gefässe (arteriell),TRUE,,,,,TRUE,,TRUE,TRUE,TRUE,,,,,,hängige Beschwerde,,TRUE,,,,,,,TRUE,TRUE,,TRUE,,,,,,
+61,Innere Organe,Gefässe,GEFA,"Interventionen und Gefässchirurgie intraabdominale
+Gefässe",TRUE,,,,,TRUE,,,TRUE,,,,,,,,,,,,,,,,TRUE,,,,,,,,,
+62,Innere Organe,Gefässe,GEF3,Gefässchirurgie Carotis,TRUE,,,,,TRUE,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,
+63,Innere Organe,Gefässe,ANG 3.00,Interventionen Carotis und extrakranielle Gefässe,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64,Innere Organe,Gefässe,RAD1,"Interventionelle Radiologie (bei Gefässen nur
+Diagnostik)",TRUE,,,,,TRUE,,TRUE,TRUE,TRUE,,,,,,hängige Beschwerde,TRUE,TRUE,,,,,,,TRUE,TRUE,,TRUE,TRUE,,,,,
+68,Innere Organe (Fortsetzung),Herz,HER1,Einfache Herzchirurgie,TRUE,,,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+69,Innere Organe (Fortsetzung),Herz,HER1.1,Herzchirurgie und Gefässeingriffe mit Herzlungenmaschine (ohne Koronarchirurgie),TRUE,,,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+70,Innere Organe (Fortsetzung),Herz,HER1.1.1,Koronarchirurgie (CABG),TRUE,,,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+71,Innere Organe (Fortsetzung),Herz,HER1.1.2,Komplexe kongenitale Herzchirurgie,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+72,Innere Organe (Fortsetzung),Herz,HER1.1.3,Chirurgie und Interventionen an der thorakalen Aorta,TRUE,,,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+73,Innere Organe (Fortsetzung),Herz,HER1.1.4,Offene Eingriffe an der Aortenklappe,TRUE,,,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+74,Innere Organe (Fortsetzung),Herz,HER1.1.5,Offene Eingriffe an der Mitralklappe,TRUE,,,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+75,Innere Organe (Fortsetzung),Herz,KAR1,Kardiologie (inkl. Schrittmacher),TRUE,TRUE,,,,TRUE,,,TRUE,,,,,,,TRUE,,TRUE,,,,TRUE,,TRUE,TRUE,,,,,,,,,
+76,Innere Organe (Fortsetzung),Herz,KAR1.1,Interventionelle Kardiologie (Koronareingriffe),TRUE,TRUE,,,,TRUE,,,TRUE,,,,,,,,,,,,,,,,TRUE,,,,,,,,,
+77,Innere Organe (Fortsetzung),Herz,KAR1.1.1,Interventionelle Kardiologie (Spezialeingriffe),TRUE,,,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+78,Innere Organe (Fortsetzung),Herz,KAR1.2,Elektrophysiologie (Ablationen),TRUE,TRUE,,,,TRUE,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,
+79,Innere Organe (Fortsetzung),Herz,KAR1.3,"Implantierbarer Cardioverter Defibrillator /
+Biventrikuläre Schrittmacher (CRT)",TRUE,TRUE,,,,TRUE,,,TRUE,,,,,,,TRUE,,,,,,,,,TRUE,,,,,,,,,
+80,Innere Organe (Fortsetzung),Nephrologie,NEP1,Nephrologie (akute Nierenversagen wie auch chronisch terminales Nierenversagen),TRUE,"befristet
+(31.12.2019)",,,,Dialyse1,,Dialyse1,TRUE,,,,,,,TRUE,,TRUE,Dialyse1,,,TRUE,,TRUE,TRUE,,,,Dialyse1,,,,,
+81,Innere Organe (Fortsetzung),Urologie,URO1,Urologie ohne Schwerpunktstitel 'Operative Urologie',TRUE,,,"befristet
+(31.12.2019)",,TRUE,,TRUE,TRUE,,hängige Beschwerde,,TRUE,,,TRUE,,TRUE,,TRUE,,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,,,,,,
+82,Innere Organe (Fortsetzung),Urologie,URO1.1,Urologie mit Schwerpunktstitel 'Operative Urologie',TRUE,,,"befristet
+(31.12.2019)",,TRUE,,TRUE,TRUE,,,,TRUE,,,TRUE,,TRUE,,TRUE,,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,,,,,,
+83,Innere Organe (Fortsetzung),Urologie,URO1.1.1,Radikale Prostatektomie,TRUE,,,,,TRUE,,"befristet
+(30.06.2020)",TRUE,,,,TRUE,,,TRUE,,TRUE,,TRUE,,TRUE,,,TRUE,,,,,,,,,
+84,Innere Organe (Fortsetzung),Urologie,URO1.1.2,Radikale Zystektomie,TRUE,,,,,TRUE,,,TRUE,,,,,,,"befristet
+(30.06.2021)",,,,,,,,,TRUE,,,,,,,,,
+85,Innere Organe (Fortsetzung),Urologie,URO1.1.3,Komplexe Chirurgie der Niere (Tumornephrektomie und Nierenteilsektion),TRUE,,,,,TRUE,,,TRUE,,,,,,,TRUE,,TRUE,,,,,,"befristet
+(30.06.2021)",TRUE,,,,,,,,,
+86,Innere Organe (Fortsetzung),Urologie,URO1.1.4,Isolierte Adrenalektomie,TRUE,,,,,TRUE,,,TRUE,,,,,,,TRUE,,TRUE,,,,TRUE,,TRUE,TRUE,,,,,,,,,
+87,Innere Organe (Fortsetzung),Urologie,URO1.1.7,Implantation eines künstlichen Harnblasensphinkters,TRUE,,,,,,,,TRUE,,,,TRUE,,,,,,,,,,,,,,,TRUE,,,,,,
+88,Innere Organe (Fortsetzung),Urologie,URO1.1.8,"Perkutane Nephrostomie mit Desintegration von
+Steinmaterial",TRUE,,,,,TRUE,,TRUE,TRUE,,,,,,,TRUE,,TRUE,,,,,,TRUE,,TRUE,,,,,,,,
+89,Innere Organe (Fortsetzung),Pneumologie,PNE1,Pneumologie,TRUE,TRUE,TRUE,TRUE,TRUE,"befristet
+(30.06.2020)",,TRUE,TRUE,"befristet
+(31.12.2020)",TRUE,,,,,TRUE,TRUE,TRUE,TRUE,,,TRUE,TRUE,TRUE,TRUE,"befristet
+(30.06.2020)",,,,,,,,
+90,Innere Organe (Fortsetzung),Pneumologie,PNE1.1,Pneumologie mit spez. Beatmungstherapie,TRUE,TRUE,,,,"befristet
+(30.06.2020)",,TRUE,TRUE,"befristet
+(31.12.2020)",TRUE,,,,,TRUE,TRUE,TRUE,,,,TRUE,,TRUE,TRUE,"befristet
+(30.06.2020)",,,,,,,,
+91,Innere Organe (Fortsetzung),Pneumologie,PNE1.2,"Abklärung zur oder Status nach
+Lungentransplantation",TRUE,,,,,,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,
+92,Innere Organe (Fortsetzung),Pneumologie,PNE1.3,Cystische Fibrose,TRUE,,,,,,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,
+93,Innere Organe (Fortsetzung),Pneumologie,PNE2,Polysomnographie,TRUE,TRUE,,,,,,TRUE,TRUE,,,,,,,TRUE,,,,,,,,,,"befristet
+(30.06.2020)",,,,,,,,
+94,Innere Organe (Fortsetzung),Thoraxchirurgie,THO1,Thoraxchirurgie,TRUE,,,,,TRUE,,,TRUE,,,,,,,,,,,,,,,,TRUE,,,,,,,,,
+95,Innere Organe (Fortsetzung),Thoraxchirurgie,THO1.1,Maligne Neoplasien des Atmungssystems (kurative Resektion durch Lobektomie / Pneumonektomie),TRUE,,,,,TRUE,,,"befristet
+(30.06.2021)",,,,,,,,,,,,,,,,,,,,,,,,,
+96,Innere Organe (Fortsetzung),Thoraxchirurgie,THO1.2,Mediastinaleingriffe,TRUE,,,,,TRUE,,,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,
+97,Innere Organe (Fortsetzung),Transplantationen,TPL1,Herztransplantation (IVHSM),IVHSM-Leistungsauftrag		,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+98,Innere Organe (Fortsetzung),Transplantationen,TPL2,"Lungentransplantation (IVHSM,
+Lungentransplantation bei Kindern)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+99,Innere Organe (Fortsetzung),Transplantationen,TPL3,Lebertransplantation (IVHSM),IVHSM-Leistungsauftrag		,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+100,Innere Organe (Fortsetzung),Transplantationen,TPL 4,Pankreastransplantation (IVHSM),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+101,Innere Organe (Fortsetzung),Transplantationen,TPL 5,Nierentransplantation (IVHSM),IVHSM-Leistungsauftrag		,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+102,Innere Organe (Fortsetzung),Transplantationen,TPL6,Darmtransplantation,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+103,Innere Organe (Fortsetzung),Transplantationen,TPL7,Milztransplantation,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+104,Bewegungs- apparat,Bewegungsapparat chirurgisch,BEW1,Chirurgie Bewegungsapparat,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,,,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,TRUE,,TRUE,,,
+105,Bewegungs- apparat,Bewegungsapparat chirurgisch,BEW2,Orthopädie,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,,,TRUE,TRUE,TRUE,,TRUE,,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,TRUE,,TRUE,,,
+106,Bewegungs- apparat,Bewegungsapparat chirurgisch,BEW3,Handchirurgie,"befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)",,,"befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)",,"befristet
+(30.04.2024)",,,"befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)",,,,"befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)","befristet
+(30.04.2024)",,,"befristet
+(30.04.2024)",,"befristet
+(30.04.2024)",,,
+107,Bewegungs- apparat,Bewegungsapparat chirurgisch,BEW4,"Arthroskopie der Schulter und des
+Ellbogens",TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,,,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,TRUE,,TRUE,,,
+108,Bewegungs- apparat,Bewegungsapparat chirurgisch,BEW5,Arthroskopie des Knies,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,,,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,TRUE,,TRUE,,,
+109,Bewegungs- apparat,Bewegungsapparat chirurgisch,BEW6,Rekonstruktion obere Extremität,TRUE,"befristet
+(31.12.2019)",TRUE,TRUE,TRUE,,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,,,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,TRUE,,,
+110,Bewegungs- apparat,Bewegungsapparat chirurgisch,BEW7,Rekonstruktion untere Extremität,TRUE,"befristet
+(31.12.2019)",TRUE,TRUE,TRUE,,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,,,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,TRUE,TRUE,TRUE,TRUE,,,,,TRUE,,,
+111,Bewegungs- apparat,Bewegungsapparat chirurgisch,BEW7.1,Elektive Erstprothese Hüfte,"befristet
+(30.04.2021)","befristet
+(30.04.2021)","befristet
+(30.04.2021)","befristet
+(30.04.2021)","befristet
+(30.04.2021)",,"befristet
+(30.06.2021)","befristet
+(30.06.2021)","befristet
+(30.04.2021)","befristet
+(30.04.2021)","befristet
+(30.04.2021)",,"befristet
+(30.04.2021)",,,"befristet
+(30.04.2021)","befristet
+(30.04.2021)","befristet
+(30.04.2021)",,"befristet
+(30.04.2021)",,"befristet
+(30.04.2021)","befristet
+(30.04.2021)","befristet
+(30.04.2021)","befristet
+(30.04.2021)","befristet
+(30.04.2021)",,"befristet
+(30.04.2021)","befristet
+(30.04.2021)",,,,,
+112,Bewegungs- apparat,Bewegungsapparat chirurgisch,BEW7.2,Elektive Erstprothese Knie,"befristet
+(30.04.2021)","befristet
+(30.04.2021)","befristet
+(30.04.2021)","befristet
+(30.04.2021)","befristet
+(30.04.2021)",,"befristet
+(30.06.2021)","befristet
+(30.06.2021)","befristet
+(30.04.2021)","befristet
+(30.04.2021)","befristet
+(30.04.2021)",,"befristet
+(30.04.2021)",,,"befristet
+(30.04.2021)","befristet
+(30.04.2021)","befristet
+(30.04.2021)",,"befristet
+(30.04.2021)",,"befristet
+(30.04.2021)","befristet
+(30.04.2021)","befristet
+(30.04.2021)","befristet
+(30.04.2021)","befristet
+(30.04.2021)",,"befristet
+(30.04.2021)","befristet
+(30.04.2021)",,,,,
+113,Bewegungs- apparat,Bewegungsapparat chirurgisch,BEW7.3,Wechseloperationen Hüft- und Knieprothesen,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,,,TRUE,TRUE,TRUE,,TRUE,,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,TRUE,,,,,
+114,Bewegungs- apparat,Bewegungsapparat chirurgisch,BEW8,Wirbelsäulenchirurgie,TRUE,,TRUE,TRUE,,,TRUE,TRUE,TRUE,TRUE,,,"befristet
+(31.12.2019)",,,TRUE,,TRUE,,,,TRUE,,TRUE,TRUE,TRUE,,,,,,,,
+115,Bewegungs- apparat,Bewegungsapparat chirurgisch,BEW8.1,Spezialisierte Wirbelsäulenchirurgie,TRUE,,,TRUE,,,,TRUE,TRUE,TRUE,,,"befristet
+(31.12.2020)",,,TRUE,,TRUE,,,,TRUE,,"befristet
+(30.06.2022)",TRUE,TRUE,,,,,,,,
+116,Bewegungs- apparat,Bewegungsapparat chirurgisch,BEW9,Knochentumore,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+117,Bewegungs- apparat,Bewegungsapparat chirurgisch,BEW10,Plexuschirurgie,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+118,Bewegungs- apparat,Bewegungsapparat chirurgisch,BEW11,Replantationen,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+119,Bewegungs- apparat,Rheumatologie,RHE1,Rheumatologie,TRUE,TRUE,TRUE,TRUE,"befristet
+(31.12.2019)",,TRUE,TRUE,TRUE,TRUE,,,,,,TRUE,TRUE,TRUE,,,,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,,,,,,
+120,Bewegungs- apparat,Rheumatologie,RHE2,Interdisziplinäre Rheumatologie,TRUE,TRUE,,,,,,,TRUE,,,,,,,,,,,,,TRUE,,,,,,,,,,,,
+121,Gynäkologie & Geburtshilfe,Gynäkologie,GYN1,Gynäkologie,TRUE,,TRUE,,,TRUE,,TRUE,TRUE,,TRUE,,,,,TRUE,TRUE,TRUE,"befristet
+(30.06.2021)",TRUE,,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,TRUE,,TRUE,,,
+122,Gynäkologie & Geburtshilfe,Gynäkologie,GYNT,Gynäkologische Tumoren,TRUE,,,,,"Teil-LA2, befristet (30.06.2021)",,,Teil-LA2,,,,,,,,,Teil-LA2,,,,,,,hängige Beschwerde,,,,,,,,,
+123,Gynäkologie & Geburtshilfe,Gynäkologie,GYN2,Maligne Neoplasien der Mamma,TRUE,,,,,,,TRUE,TRUE,,TRUE,,,,,TRUE,,TRUE,,"befristet
+(30.06.2021)",,TRUE,"befristet
+(30.06.2021)",TRUE,TRUE,TRUE,,TRUE,,,TRUE,,,
+124,Gynäkologie & Geburtshilfe,Gynäkologie,PLC1,Eingriffe im Zusammenhang mit Transsexualität,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+125,Gynäkologie & Geburtshilfe,Geburtshilfe,GEBH,Geburtshäuser (ab 37. SSW),,,,,,,,,,,,,,,TRUE,,,,,,TRUE,,,,,,,,,,,,,
+126,Gynäkologie & Geburtshilfe,Geburtshilfe,GEB1,Grundversorgung Geburtshilfe (ab 35 0/7 SSW und >= 2000g),TRUE,,TRUE,,,,,TRUE,TRUE,,TRUE,,,,,TRUE,TRUE,TRUE,,,,TRUE,,TRUE,TRUE,TRUE,,TRUE,,TRUE,TRUE,,TRUE,
+127,Gynäkologie & Geburtshilfe,Geburtshilfe,GEB1.1,Geburtshilfe (ab 32 0/7 SSW und >= 1250g),TRUE,,,,,,,,hängige Beschwerde,,,,,,,,,,,,,,,,TRUE,,,,,,,,TRUE,
+128,Gynäkologie & Geburtshilfe,Geburtshilfe,GEB1.1.1,Spezialisierte Geburtshilfe,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,
+129,Gynäkologie & Geburtshilfe,Neugeborene,NEOG,"Grundversorgung Neugeborene Geburtshaus (ab 37.
+SSW und GG 2000g)",,,,,,,,,,,,,,,TRUE,,,,,,TRUE,,,,,,,,,,,,,
+130,Gynäkologie & Geburtshilfe,Neugeborene,NEO1,"Grundversorgung Neugeborene (ab 35 0/7 SSW und
+GG >= 2000g)",TRUE,,TRUE,,,,,TRUE,TRUE,,TRUE,,,,,TRUE,TRUE,TRUE,,,,TRUE,,TRUE,TRUE,TRUE,,TRUE,,TRUE,TRUE,,TRUE,
+131,Gynäkologie & Geburtshilfe,Neugeborene,NEO1.1,Neonatologie (ab GA 32 0/7 SSW und GG 1250g),TRUE,,,,,,,,,,,,,,,,,,,,,,,,TRUE,,,,,,,,TRUE,
+132,Gynäkologie & Geburtshilfe,Neugeborene,NEO1.1.1,"Spezialisierte Neonatologie (ab GA 28 0/7 SSW und
+GG 1000g)",TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,
+133,Gynäkologie & Geburtshilfe,Neugeborene,NEO1.1.1.1,"Hochspezialisierte Neonatologie (GA < 28 0/7 SSW
+und GG < 1000g)",TRUE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+137,Übrige,(Radio-) Onkologie,ONK1,Onkologie,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,TRUE,TRUE,TRUE,,,,,TRUE,TRUE,TRUE,,,,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,TRUE,TRUE,TRUE,,,
+138,Übrige,,RAO1,Radio-Onkologie,TRUE,,,,,TRUE,,,TRUE,TRUE,TRUE,,,,,TRUE,TRUE,TRUE,,,,,,,TRUE,TRUE,,,,,,,,
+139,Übrige,,NUK1,Nuklearmedizin,TRUE,,,,,,,,,,,,,,,,,,,,,,,,,TRUE,,,,,,,,
+140,Übrige,Schwere Verletzungen,UNF1,Unfallchirurgie (Polytrauma) (IVHSM),IVHSM-Leistungsauftrag		,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+141,Übrige,Schwere Verletzungen,UNF1.1,"Spezialisierte Unfallchirurgie (Schädel-Hirn-Trauma)
+(IVHSM)",IVHSM-Leistungsauftrag		,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+142,Übrige,Schwere Verletzungen,UNF2,"Ausgedehnte Verbrennungen (IVHSM), Behandlung von schweren Verbrennungen bei Kindern (IVHSM)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+143,Querschnitts-bereiche,Querschnitts-bereiche,KINM,Kindermedizin,TRUE,,,,,,,,,,,,,,,,,,,,,,,,TRUE,,,,,TRUE,,,TRUE,
+144,Querschnitts-bereiche,Querschnitts-bereiche,KINC,Kinderchirurgie,TRUE,,,,,,,,,*,,,,,,,,,,,,,,,TRUE,,,,,,,,,
+145,Querschnitts-bereiche,Querschnitts-bereiche,KINB,Basis-Kinderchirurgie,,TRUE,TRUE,TRUE,TRUE,,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,,,TRUE,,TRUE,"befristet
+(30.06.2021)",,,TRUE,,TRUE,,,,TRUE,TRUE,TRUE,TRUE,,TRUE,
+146,Querschnitts-bereiche,Querschnitts-bereiche,GER,Akutgeriatrie Kompetenzzentrum,,TRUE,,,,,,TRUE,,,,TRUE,,,,TRUE,TRUE,TRUE,,,,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,TRUE,,,,,TRUE
+147,Querschnitts-bereiche,Querschnitts-bereiche,SpezPalCare,Spezialisierte Pallitaive Care im Spital,TRUE,,,,,,,,,,TRUE,,,TRUE,,TRUE,,TRUE,,,,TRUE,,TRUE,TRUE,,,,,,,TRUE,,
+148,Querschnitts-bereiche,Querschnitts-bereiche,AVA,Akutsomatische Versorgung Abhängigkeitskranker,TRUE,TRUE,TRUE,TRUE,TRUE,,,,TRUE,TRUE,TRUE,,,,,TRUE,TRUE,TRUE,TRUE,,,TRUE,TRUE,TRUE,TRUE,,,TRUE,TRUE,,TRUE,,,

@@ -1,0 +1,163 @@
+Leistungsbereiche,Kürzel Bern,Leistungsgruppen,HFR,Daler,Clinique Générale,HIB,Petit Prince,HNE,Klinik Bethesda,CHUV,Inselspital,HUG
+Basispaket,BP,Basispaket Chirurgie und Innere Medizin,1,1,0,1,0,0,0,0,0,0
+"Programmiertes 
+Basispaket",BPE,Basispaket für elektive Leistungserbringer,1,1,1,1,0,0,0,0,0,0
+Dermatologie,DER1,Dermatologie (inkl. Geschlechtskrankheiten),1,1,0,1,0,0,0,0,0,0
+,DER1.1,Dermatologische Onkologie,1,1,0,0,0,0,0,1,1,1
+,DER1.2,Schwere Hauterkrankungen,1,0,0,0,0,0,0,0,0,0
+,DER2,Wundpatienten,1,0,1,1,0,0,0,0,0,0
+Hals-Nasen-Ohren,HNO1,Hals-Nasen-Ohren (HNO-Chirurgie),1,1,1,1,0,0,0,0,0,0
+,HNO1.1,Hals- und Gesichtschirurgie,1,1,1,1,0,0,0,0,0,0
+,HNO1.1.1,"Komplexe Halseingriffe (Interdisziplinäre
+Tumorchirurgie)",1,0,0,0,0,0,0,1,1,0
+,HNO1.2,Erweiterte Nasenchirurgie mit Nebenhöhlen,1,1,1,1,0,0,0,0,0,0
+,HNO1.2.1,"Erweiterte Nasenchirurgie, Nebenhöhlen mit Duraeröffnung (interdisziplinäre
+Schädelbasischirurgie)",1,0,0,0,0,0,0,1,1,0
+,HNO1.3,"Mittelohrchirurgie (Tympanoplastik, Mastoidchirurgie, Osikuloplastik inkl.
+Stapesoperationen)",1,0,1,0,0,0,0,0,0,0
+,HNO1.3.1,"Erweiterte Ohrchirurgie mit Innenohr und/oder
+Duraeröffnung",0,0,0,0,0,0,0,1,1,0
+,HNO1.3.2,Cochlea Implantate (IVHSM),0,0,0,0,0,0,0,0,1,1
+,HNO2,Schild- und Nebenschilddrüsenchirurgie,1,1,0,1,0,0,0,0,0,0
+,KIE1,Kieferchirurgie,1,1,0,0,0,0,0,0,0,0
+Neurochirurgie,NCH1,Kraniale Neurochirurgie,1,0,0,0,0,0,0,0,1,1
+,NCH1.1,Spezialisierte Neurochirurgie,1,0,0,0,0,0,0,1,1,1
+,NCH1.1.1,Behandlungen von vaskulären Erkrankungen des ZNS ohne die komplexen vaskulären Anomalien (IVHSM),1,0,0,0,0,0,0,1,1,1
+,NCH1.1.1.1,"Behandlungen von komplexen vaskulären Anomalien
+des ZNS (IVHSM)",1,0,0,0,0,0,0,1,1,1
+,NCH1.1.2,Stereotaktische funktionelle Neurochirurgie (IVHSM),1,0,0,0,0,0,0,1,1,1
+,NCH1.1.3,Epilepsiechirurgie (IVHSM),1,0,0,0,0,0,0,1,1,1
+,NCH2,Spinale Neurochirurgie,1,0,1,0,0,1,0,1,1,0
+,NCH2.1,"Primäre und sekundäre intramedulläre
+Raumforderungen (IVHSM)",1,0,1,0,0,1,0,1,1,0
+,NCH3,Periphere Neurochirurgie,1,0,1,0,0,0,0,1,1,0
+Neurologie,NEU1,Neurologie,1,0,0,1,0,0,0,0,0,0
+,NEU2,Sekundäre bösartige Neubildung des Nervensystems,1,0,0,1,0,0,0,0,0,0
+,NEU2.1,Primäre Neubildung des Zentralnervensystems (ohne Palliativpatienten),1,0,0,0,0,0,0,0,1,1
+,NEU3,Zerebrovaskuläre Störungen,1,0,0,1,0,0,0,0,0,0
+,NEU3.1,"Zerebrovaskuläre Störungen im Stroke Center
+(IVHSM)",0,0,0,0,0,0,0,1,1,1
+,NEU4,Epileptologie: Komplex-Diagnostik,1,0,0,0,0,0,1,0,1,1
+,NEU4.1,Epileptologie: Komplex-Behandlung,1,0,0,0,0,0,1,0,1,1
+,NEU4.2,"Epileptologie: Komplex-Diagnostik mit
+Intensivmonitoring (IVHSM)",1,0,0,0,0,0,1,0,1,1
+Ophthalmologie,Aug.01,Ophthalmologie,1,0,0,0,0,0,0,0,1,0
+,AUG1.1,Strabologie,1,0,0,0,0,0,0,0,1,0
+,AUG1.2,"Orbita, Lider, Tränenwerge",1,0,0,0,0,0,0,0,1,0
+,AUG1.3,Spezialisierte Vordersegementchirurgie,1,0,0,0,0,0,0,0,1,0
+,AUG1.4,Katarakt,1,0,0,0,0,0,0,0,0,0
+,AUG1.5,Glaskörper/Netzhautprobleme,1,0,0,0,0,0,0,0,0,0
+Endokrinologie,END1,Endokrinologie,1,1,0,1,0,0,0,0,0,0
+Gastroenterologie,GAE1,Gastroenterologie,1,1,0,1,0,0,0,0,0,0
+,GAE1.1,Spezialisierte Gastroenterologie,1,0,0,1,0,0,0,0,0,0
+Viszeralchirurgie,VIS1,Viszeralchirurgie,1,1,0,1,0,0,0,0,0,0
+,VIS1.1,Grosse Pankreaseingriffe (IVHSM),1,0,0,0,0,0,0,1,1,1
+,VIS1.2,Grosse Lebereingriffe (IVHSM),0,0,0,0,0,0,0,1,1,1
+,VIS1.3,Oesophagusresektion (IVHSM),1,0,0,0,0,0,0,1,1,0
+,VIS1.4,Bariatrische Chirurgie,1,1,0,1,0,0,0,0,0,0
+,VIS1.4.1,Spezialisierte bariatrische Chirurgie (IVHSM),1,0,0,0,0,0,0,0,0,0
+,VIS1.5,Tiefe Rektumeingriffe (IVHSM),1,0,0,0,0,0,0,0,0,0
+Hämatologie,HAE1,Aggressive Lymphome und akute Leukämien,1,0,0,0,0,0,0,0,0,0
+,HAE1.1,"Hochaggressive Lymphome und akute Leukämien mit
+kurativer Chemotherapie",1,0,0,0,0,0,0,0,0,0
+,HAE2,Indolente Lymphome und chronische Leukämien,1,0,0,1,0,0,0,0,0,0
+,HAE3,Myeloproliferative Erkrankungen und Myelodysplastische Syndrome,1,0,0,1,0,0,0,0,0,0
+,HAE4,Autologe Blutstammzelltransplantation,0,0,0,0,0,0,0,1,1,0
+,HAE5,"Allogene Blutstammzell-transplantation (IVHSM)
+(Erwachsene)",0,0,0,0,0,0,0,0,1,1
+Gefässe,GEF1,Gefässchirurgie periphere Gefässe (arteriell),1,0,0,0,0,0,0,0,0,0
+,ANG 1.00,Interventionen periphere Gefässe (arteriell),1,1,0,0,0,0,0,0,0,0
+,GEFA,"Interventionen und Gefässchirurgie intraabdominale
+Gefässe",1,0,0,0,0,0,0,0,0,0
+,GEF3,Gefässchirurgie Carotis,1,0,0,0,0,0,0,0,0,0
+,ANG 3.00,Interventionen Carotis und extrakranielle Gefässe,1,0,0,0,0,0,0,1,1,0
+,RAD1,"Interventionelle Radiologie (bei Gefässen nur
+Diagnostik)",1,1,0,1,0,0,0,0,0,0
+,HER1,Einfache Herzchirurgie,0,0,0,0,0,0,0,1,1,0
+,HER1.1,Herzchirurgie und Gefässeingriffe mit Herzlungenmaschine (ohne Koronarchirurgie),0,0,0,0,0,0,0,1,1,1
+,HER1.1.1,Koronarchirurgie (CABG),0,0,0,0,0,0,0,1,1,1
+Herz,HER1.1.2,Komplexe kongenitale Herzchirurgie,0,0,0,0,0,0,0,1,1,0
+,HER1.1.3,Chirurgie und Interventionen an der thorakalen Aorta,0,0,0,0,0,0,0,1,1,0
+,HER1.1.4,Offene Eingriffe an der Aortenklappe,0,0,0,0,0,0,0,1,1,0
+,HER1.1.5,Offene Eingriffe an der Mitralklappe,0,0,0,0,0,0,0,1,1,0
+,KAR1,Kardiologie (inkl. Schrittmacher),1,0,0,1,0,0,0,0,0,0
+,KAR1.1,Interventionelle Kardiologie (Koronareingriffe),1,0,0,0,0,0,0,0,1,0
+,KAR1.1.1,Interventionelle Kardiologie (Spezialeingriffe),1,0,0,0,0,0,0,0,1,0
+,KAR1.2,Elektrophysiologie (Ablationen),1,0,0,0,0,0,0,1,1,0
+,KAR1.3,"Implantierbarer Cardioverter Defibrillator /
+Biventrikuläre Schrittmacher (CRT)",1,0,0,1,0,0,0,0,0,0
+,NEP1,Nephrologie (akute Nierenversagen wie auch chronisch terminales Nierenversagen),1,0,0,1,0,0,0,0,0,0
+,URO1,Urologie ohne Schwerpunktstitel 'Operative Urologie',1,1,1,1,0,0,0,0,0,0
+,URO1.1,Urologie mit Schwerpunktstitel 'Operative Urologie',1,1,0,1,0,0,0,0,0,0
+Nephrologie,URO1.1.1,Radikale Prostatektomie,1,1,0,0,0,0,0,0,0,0
+Urologie,URO1.1.2,Radikale Zystektomie,1,1,0,0,0,0,0,0,0,0
+,URO1.1.3,Komplexe Chirurgie der Niere (Tumornephrektomie und Nierenteilsektion),1,1,0,0,0,0,0,0,0,0
+,URO1.1.4,Isolierte Adrenalektomie,1,0,0,0,0,0,0,0,0,0
+,URO1.1.7,Implantation eines künstlichen Harnblasensphinkters,1,1,0,1,0,0,0,0,0,0
+,URO1.1.8,"Perkutane Nephrostomie mit Desintegration von
+Steinmaterial",1,1,0,0,0,0,0,0,0,0
+,PNE1,Pneumologie,1,0,0,1,0,0,0,0,0,0
+,PNE1.1,Pneumologie mit spez. Beatmungstherapie,1,0,0,1,0,0,0,0,0,0
+,PNE1.2,"Abklärung zur oder Status nach
+Lungentransplantation",0,0,0,0,0,0,0,1,1,0
+,PNE1.3,Cystische Fibrose,1,0,0,0,0,0,0,1,1,1
+,PNE2,Polysomnographie,1,0,0,0,0,0,0,1,1,0
+Pneumologie,THO1,Thoraxchirurgie,1,0,0,0,0,0,0,0,0,0
+,THO1.1,Maligne Neoplasien des Atmungssystems (kurative Resektion durch Lobektomie / Pneumonektomie),1,0,0,0,0,0,0,0,0,0
+,THO1.2,Mediastinaleingriffe,1,0,0,0,0,0,0,0,0,0
+,TPL1,Herztransplantation (IVHSM),0,0,0,0,0,0,0,1,1,0
+,TPL2,"Lungentransplantation (IVHSM,
+Lungentransplantation bei Kindern)",0,0,0,0,0,0,0,1,1,0
+Thoraxchirurgie,TPL3,Lebertransplantation (IVHSM),0,0,0,0,0,0,0,0,1,1
+,TPL 4,Pankreastransplantation (IVHSM),0,0,0,0,0,0,0,0,1,1
+,TPL 5,Nierentransplantation (IVHSM),0,0,0,0,0,0,0,1,1,1
+Transplantationen,TPL6,Darmtransplantation,0,0,0,0,0,0,0,0,1,0
+,TPL7,Milztransplantation,0,0,0,0,0,0,0,0,1,0
+,BEW1,Chirurgie Bewegungsapparat,1,1,1,1,0,0,0,0,0,0
+,BEW2,Orthopädie,1,0,1,1,0,1,0,0,0,0
+,BEW3,Handchirurgie,1,1,1,0,0,0,0,0,0,0
+,BEW4,"Arthroskopie der Schulter und des
+Ellbogens",1,0,1,1,0,0,0,0,0,0
+,BEW5,Arthroskopie des Knies,1,1,1,1,0,0,0,0,0,0
+Orthopädie,BEW6,Rekonstruktion obere Extremität,1,0,1,1,0,0,0,0,0,0
+,BEW7,Rekonstruktion untere Extremität,1,0,1,1,0,0,0,0,0,0
+,BEW7.1,Elektive Erstprothese Hüte,1,0,1,1,0,0,0,0,0,0
+,BEW7.2,Elektive Erstprothese Knie,1,0,1,1,0,0,0,0,0,0
+,BEW7.3,Wechseloperationen Hüt- und Knieprothesen,1,0,1,1,0,0,0,0,0,0
+,BEW8,Wirbelsäulenchirurgie,1,0,1,0,0,0,0,0,0,0
+,BEW8.1,Spezialisierte Wirbelsäulenchirurgie,1,0,1,0,0,0,0,0,0,0
+,BEW9,Knochentumore,0,0,0,0,0,0,0,1,1,1
+,BEW10,Plexuschirurgie,0,0,0,0,0,0,0,1,1,1
+,BEW11,Replantationen,0,0,0,0,0,0,0,1,1,0
+,RHE1,Rheumatologie,1,0,1,1,0,0,0,0,0,0
+,RHE2,Interdisziplinäre Rheumatologie,1,0,0,0,0,0,0,1,1,0
+Rheumatologie,GYN1,Gynäkologie,1,1,1,1,0,0,0,0,0,0
+,GYNT,Gynäkologische Tumoren,1,0,0,0,0,0,0,0,0,0
+Gynäkologie,GYN2,Maligne Neoplasien der Mamma,1,1,1,1,0,0,0,0,0,0
+,PLC1,Eingriffe im Zusammenhang mit Transsexualität,1,0,0,0,0,0,0,1,1,0
+,GEBH,Geburtshäuser (ab 37. SSW),0,0,0,0,1,0,0,0,0,0
+,GEB1,Grundversorgung Geburtshilfe (ab 35 0/7 SSW und >= 2000g),1,1,0,1,0,0,0,0,0,0
+,GEB1.1,Geburtshilfe (ab 32 0/7 SSW und >= 1250g),1,0,0,0,0,0,0,0,0,0
+,GEB1.1.1,Spezialisierte Geburtshilfe,0,0,0,0,0,0,0,1,1,1
+,NEOG,"Grundversorgung Neugeborene Geburtshaus (ab 37.
+SSW und GG 2000g)",1,1,0,1,0,0,0,0,0,0
+Geburtshilfe,NEO1,"Grundversorgung Neugeborene (ab 35 0/7 SSW und
+GG >= 2000g)",1,1,0,1,0,0,0,0,0,0
+,NEO1.1,Neonatologie (ab GA 32 0/7 SSW und GG 1250g),1,0,0,0,0,0,0,0,0,0
+,NEO1.1.1,"Spezialisierte Neonatologie (ab GA 28 0/7 SSW und
+GG 1000g)",0,0,0,0,0,0,0,0,1,1
+,NEO1.1.1.1,"Hochspezialisierte Neonatologie (GA < 28 0/7 SSW
+und GG < 1000g)",0,0,0,0,0,0,0,1,1,0
+Neugeborene,ONK1,Onkologie,1,1,0,1,0,0,0,0,0,0
+,RAO1,Radio-Onkologie,1,0,0,0,0,0,0,0,0,0
+,NUK1,Nuklearmedizin,1,0,0,0,0,0,0,0,0,0
+,UNF1,Unfallchirurgie (Polytrauma) (IVHSM),1,0,0,1,0,0,0,0,0,1
+(Radio-)Onkologie,UNF1.1,"Spezialisierte Unfallchirurgie (Schädel-Hirn-Trauma)
+(IVHSM)",1,0,0,0,0,0,0,1,1,1
+,UNF2,"Ausgedehnte Verbrennungen (IVHSM), Behandlung von schweren Verbrennungen bei Kindern (IVHSM)",0,0,0,0,0,0,0,1,1,0
+,KINM,Kindermedizin,1,0,0,1,0,0,0,0,0,0
+Schwere Verletzungen,KINC,Kinderchirurgie,1,0,0,1,0,0,0,0,0,0
+,KINB,Basis-Kinderchirurgie,1,1,1,0,0,0,0,0,0,0
+,GER,Akutgeriatrie Kompetenzzentrum,1,0,0,1,0,0,0,0,0,0
+Querschnittsbereiche,SpezPalCare,Spezialisierte Pallitaive Care im Spital,1,0,0,0,0,0,0,0,0,0
+,AVA,Akutsomatische Versorgung Abhängigkeitskranker,1,0,0,0,0,0,0,0,0,0
