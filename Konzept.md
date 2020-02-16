@@ -25,13 +25,22 @@ Das Thema der Spitalpolitik ist komplex. Ein Link zwischen liberalen Spitalliste
 
 #### Arbeitsprotokoll
 
-19.12.19	02:00	Recherche Spitallisten
-06.01.20	03:00	PDF Umwandeln
-04.02.20	03:30	PDF Umwandeln, Datenbereinigung, Konzept
-05.02.20	07:00	Mehr Datenbereinigung, Gespräch Brievingperson, Mail Thomas
-06.02.20	07:00	Graph2: DFs zusammenfügen
-07.02.20	03:00	Graph2: Netzwerk Teil 1, Konzept für weitere Graphen besprechen
-11.02.20	07:30	Graph2: Netzwerk plotten, Graph3: Leistungsgruppen bereinigen, Datenaufbereiten
-12.02.20	05:30	Graph3: Plot, Konzept und Daten für Graph1, Recherche Kosten
-14.02.20	07:30	Graph2: plotten, Text zu den Daten, Protokoll des Scheiterns
-15.02.20	04:30	Codereview, Ordnerstruktur, Texte redigieren
+19.12.19	2:00	Recherche Spitallisten
+
+06.01.20	3:00	PDF Umwandeln
+
+04.02.20	3:30	PDF Umwandeln, Datenbereinigung, Konzept
+
+05.02.20	7:00	Mehr Datenbereinigung, Gespräch Brievingperson, Mail Thomas
+
+06.02.20	7:00	Graph2: DFs zusammenfügen
+
+07.02.20	3:00	Graph2: Netzwerk Teil 1, Konzept für weitere Graphen besprechen
+
+11.02.20	7:30	Graph2: Netzwerk plotten, Graph3: Leistungsgruppen bereinigen, Datenaufbereiten
+
+12.02.20	5:30	Graph3: Plot, Konzept und Daten für Graph1, Recherche Kosten
+
+14.02.20	7:30	Graph2: plotten, Text zu den Daten, Protokoll des Scheiterns
+
+15.02.20	4:30	Codereview, Ordnerstruktur, Texte redigieren
