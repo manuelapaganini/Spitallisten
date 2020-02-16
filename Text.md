@@ -10,6 +10,7 @@ Wir konzentrieren uns im Folgenden auf drei Kantone: Bern, Freiburg und Solothur
 Der gewünschte Effekt trat also nicht ein. Das kann verschiedene Gründe haben, einer davon dürfte aber auch sein, dass die freie Spitalwahl in der Praxis nicht so frei ist wie sie klingt. 
 
 ![1](Plots/G1_Betten.png)
+
 *Grafik 1: Schweizweit hat die Bettendichte zugenommen.*
  
 ### Spitalpolitik mit Listen
@@ -17,6 +18,7 @@ Der gewünschte Effekt trat also nicht ein. Das kann verschiedene Gründe haben,
 Einschränkungen bei der Spitalwahl gibt es für die Patienten auch mit der freien Spitalwahl. Ohne Zusatzversicherung können sie ihr Spital nur dann ausserhalb des Kantons wählen wenn
 -	ihr Heimatkanton die Behandlung auf seiner Spitalliste auch in einem Spital ausserhalb zulässt
 -	der Referenztarif für die Behandlung tiefer ist als der Basistarif ihres Heimatkantons.
+
 Den Basistarif für eine Behandlung handeln die Kantone mit den Krankenkassen aus. Den Referenztarif legen sie selbst fest. 
 Trifft keines der Kriterien zu, bezahlen die Patienten einen Aufpreis: die Differenz zwischen dem Tarif, den die Behandlung wohl im Heimatkanton gekostet hätte zu den effektiven Kosten im Spital ausserhalb. Über diese zwei Instrumente, den Spitallisten dem Referenztarif können die Kantone es ihren Bewohnerinnen leichter oder schwieriger machen, sich ausserhalb der Kantonsgrenzen behandeln zu lassen. (Den Referenztarif lassen wir hier weg weil das führt zu weit.)
 
