@@ -2,14 +2,14 @@
 
 #### Ausgangsthese
 
-Die Kantone legen ihre Spitallisten möglichs zu gunsten ihrer eigenen Spitäler an. Private Spitäler im Kanton und Spitäler ausserhalb der Kantonsgrenzen werden nur berücksichtigt wo es nicht anders geht. Diese Praxis verteuert die Spitalkosten der Kantone.
+Die Kantone legen ihre Spitallisten möglichs zu Gunsten ihrer eigenen Spitäler an. Private Spitäler im Kanton und Spitäler ausserhalb der Kantonsgrenzen werden nur berücksichtigt wo es nicht anders geht. Diese Praxis verteuert die Spitalkosten der Kantone.
 
-**=> Je mehr Leistungen von Privatspitälern und ausserkantonalen Spitälern ein Kanton zulässt, desto tiefer sind seine Spitalkosten pro Einwohnerin**
+**=> Je mehr Auswahl ein Kanton auf seiner Spitalliste zulässt, desto tiefer sind die Spitalkosten pro Einwohnerin**
 
 #### Auwand und Ertrag
 
-Als erstes geht es darum wenig handliche **PDFs lesbar zu machen**. Das geht zum Teil mit PDF-Konversion, zum Teil sind aber auch dann manuelle Eingriffee nötig, etwa um die farbig markierten Felder einzelner Spitallisten mit Text erkennbar zu machen. 
-Die **Dataframes zu verarbeiten** sollte dann mit weniger Aufwand möglich sein, entscheidend ist, in welchem Format ich sie für die weitere Verarbeitung brauche. Die Informationen betreffen mehrere Ebenen, deshalb werde ich gewisse Angaben zusammenfassen müssen. 
+Als erstes geht es darum wenig handliche **PDFs lesbar zu machen**. Das geht zum Teil mit Python, zum Teil sind aber auch  manuelle Eingriffee nötig, etwa um die farbig markierten Felder einzelner Spitallisten mit Text erkennbar zu machen. 
+Auch die **Dataframes zu verarbeiten** bedeutet einigen Aufwand, entscheidend ist, in welchem Format ich sie für die weitere Analyse brauche. Die Informationen betreffen mehrere Ebenen, deshalb werde ich gewisse Angaben zusammenfassen müssen. 
 Aus den Daten dann **verständliche Grafiken** zu machen, benötigt genügend Zeit. 
 Und schliesslich gilt es das ganze zu dokumentieren und zu veröffentlichen. 
 
@@ -35,6 +35,3 @@ Das Thema der Spitalpolitik ist komplex. Ein Link zwischen liberalen Spitalliste
 12.02.20	05:30	Graph3: Plot, Konzept und Daten für Graph1, Recherche Kosten
 14.02.20	07:30	Graph2: plotten, Text zu den Daten, Protokoll des Scheiterns
 15.02.20	04:30	Codereview, Ordnerstruktur, Texte redigieren
-
-
-
