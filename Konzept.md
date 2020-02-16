@@ -20,7 +20,7 @@ Da das Thema untersucht einen eher technischen Aspekt der Gesundheitspolitik. En
 
 #### Knackpunkt
 
-Das Thema der Spitalpolitik ist komplex. Ein Link zwischen liberalen Spitallisten und den Gesundheitskosten eines Kantons wäre ideal, es ist aber nicht garantiert, dass sich dieser machen lässt. 
+Das Thema der Spitalpolitik ist komplex. Ein Zusammenhang zwischen liberalen Spitallisten und den Gesundheitskosten eines Kantons wäre ideal, es ist aber nicht garantiert, dass sich dieser machen lässt. 
 
 
 #### Arbeitsprotokoll
@@ -43,4 +43,4 @@ Das Thema der Spitalpolitik ist komplex. Ein Link zwischen liberalen Spitalliste
 
 14.02.20	7:30	Graph2: plotten, Text zu den Daten, Protokoll des Scheiterns
 
-15.02.20	4:30	Codereview, Ordnerstruktur, Texte redigieren
+15.02.20	4:30	Codereview, Ordnerstruktur, Texte redigieren.
