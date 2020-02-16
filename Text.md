@@ -4,12 +4,13 @@
 
 Günstiger und besser sollte das Schweizer Spitalsystem mit der neuen Spitalfinanzierung werden. Sie wurde 2012 eingeführt und sollte unter anderem den Patienten mehr Auswahl bei der Wahl eines Spitals geben.  Damit, so die Hoffnung der Politik, müsste nicht mehr jedes regionale Spital möglichst viele, möglichst spezialisierte Leistungen anbieten. Wenn sich Spitalstandorte auf einzelne Angebote konzentrierten, sollte die Qualität steigen, während die Kosten dafür hätten sinken sollen. 
 
-Seit der Einführung des neuen Systems sind die Kosten im Spitalwesen sind weiter gestiegen: Von 70 Milliarden im Jahr 2012 auf 78 Milliarden 2015*. Und auch die Zahl der Spitalbetten in den Kantonen ist gestiegen, von 3 Spitalbetten pro 1000 Einwohnerinnen auf 5.5 Betten. 
+Seit der Einführung des neuen Systems sind die Kosten im Spitalwesen sind weiter gestiegen: Von 70 Milliarden im Jahr 2012 auf 78 Milliarden 2015. Und auch die Zahl der Spitalbetten in den Kantonen ist gestiegen, von 3 Spitalbetten pro 1000 Einwohnerinnen auf 5.5 Betten. 
 
 Wir konzentrieren uns im Folgenden auf drei Kantone: Bern, Freiburg und Solothurn. In Bern und Freiburg hat die Zahl der Spitalbetten pro 1000 Einwohnerinnen seit 2011 abgenommen. In Solothurn nahm sie leicht zu. Hätte tatsächlich eine Zentralisierung stattgefunden, hätte man davon ausgehen können, dass in Bern die Betten zugenommen hätten, während sie in Solothurn hätten sinken müssen. 
 Der gewünschte Effekt trat also nicht ein. Das kann verschiedene Gründe haben, einer davon dürfte aber auch sein, dass die freie Spitalwahl in der Praxis nicht so frei ist wie sie klingt. 
 
 ![1](Plots/G1_Betten.png)
+*Grafik 1: Schweizweit hat die Bettendichte zugenommen.*
  
 ### Spitalpolitik mit Listen
 
@@ -28,6 +29,7 @@ Nur, für die Kantone sind ihre Spitäler auch ein Standortfaktor. Sie schaffen 
 So oder so, die Kantone müssen auf ihren Spitallisten sämtliche verfügbaren Spitalbehandlungen abdecken. Das kann innerhalb des Kantons, ausserhalb oder sowohl als auch sein. Eine Analyse der Spitallisten von Bern, Freiburg und Solothurn zeigt: die Kantone sind auf Zusammenarbeit angewiesen, sie alle berücksichtigen auch Spitäler ausserhalb ihrer Kantonsgrenzen. 
 
 ![2](Plots/G2_Netzwerk.png)
+*Grafik 2: Kantone arbeiten vor allem entlang der Kantonsgrenzen mit anderen Spitälern zusammen.*
 
 Bern hat sein Kantonsgebiet in Versorgungsregionen eingeteilt und bezieht an den Kantonsgrenzen auch andere regionale Spitäler in seine Planung mit ein, aus Solothurn, dem Jura und Neuchâtel. Nur von Freiburg gibt es keine Spitäler auf der Berner Liste. In der deutschsprachigen Grenzregion Bern-Freiburg dürfte das Bedürfnis, sich in Freiburg auf Französisch behandeln zu lassen klein sein. 
 Umgekehrt ist Bern aus der Freiburger Spitallandschaft nicht wegzudenken. Das Inselspital ist mit 59 zugelassenen Leistungen nach dem Kantonsspital HFR (110 von 138 Leistungen) das wichtigste Spital auf der Freiburger Spitalliste. 
@@ -39,6 +41,8 @@ Solothurn wiederum führt nur drei innerkantonale Spitäler auf seiner Spitallis
 Der Umstand, dass ein Kanton ein Spital ausserhalb der Kantonsgrenzen auf seiner Liste führt, sagt aber noch nichts darüber aus, wie viel Auswahl die Patientinnen haben. 
 Tatsächlich gibt es diese im Kanton Solothurn. Solothurner können bei einem Grossteil der Spitalbehandlungen (60 Prozent) in Solothurn bleiben, ins Kantonsspital Baselland gehen oder das Universitäts-Kinderspital beider Basel aufsuchen. Und bei knapp 40 Prozent bleibt ihnen keine andere Wahl als ein Spital ausserhalb des Kantons aufzusuchen.
 ![3](Plots/G3_Austausch.png)
+*Grafik 3: Solothurn erlaubt wesentlich mehr Auswahl als Freiburg.*
+
 Anders handhabt das der Kanton Freiburg: Für einen mehr als die Hälfte der Leistungen sieht die Spitalliste nur in kantonsinterne Spitäler vor, insbesondere bei eher einfachen Behandlungen. Überschneidungen gibt es bei komplexeren Therapien wie der Krebsmedizin, (25 Prozent) hier erlaubt die Spitalliste sowohl innerkantonale wie ausserkantonale Spitäler. Und trotz allen Ambitionen Freiburgs, komplexe Medizin im Kanton zu behalten, gibt es gut einen Viertel der Leistungen, für die Patienten in einen Kanton zur Behandlung müssen. 
 
 Bern als Kanton mit Zentrumsfunktion hat mit knapp 70 Prozent einen beträchtlichen Anteil an Leistungen, welche nur im Kanton angeboten werden. Dabei handelt es sich anders als in Freiburg vor allem um komplexere Behandlungen. Überschneidungen gibt es bei leichteren Eingriffen (27 Prozent), hier kommen auch ausserkantonale Spitäler zum Zug. Und schliesslich werden 6 Leistungen nicht in Bern angeboten. Dabei handelt es sich um hochspezialisierte Eingriffe wie Lungentransplantationen oder die Behandlung von grossflächigen Verbrennungen. Hier haben die Kantone eine Vereinbarung getroffen, dass diese Eingriffe nur von wenigen Zentren in der Schweiz vorgenommen werden können. In der hochspezialisierten Medizin funktioniert die Zentralisierung von Leistungen also. Allerdings nicht durch den freien Markt, sondern durch mehr Absprachen und Reglementierung unter den Kantonen. 
