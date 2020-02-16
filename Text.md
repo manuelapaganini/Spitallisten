@@ -1,4 +1,4 @@
-# Mehr Auswahl für die Patienten senkt noch keine Spitalkosten
+# Mehr Auswahl für die Patienten senkt noch keine Kosten
 
 #### *Auch nach der Einführung der freien Spitalwahl bleiben die Kantonsgrenzen entscheidend. Die Kantone Bern, Freiburg und Solothurn verfolgen sehr unterschiedliche Strategien bei der Spitalplanung. Die Spitalkosten sind bei allen drei Kantonen beträchtlich, ungeachtet davon wie viel Auswahl sie ihren Bewohnern gewähren.*
 
