@@ -44,4 +44,6 @@ Das Thema der Spitalpolitik ist komplex. Ein Zusammenhang zwischen liberalen Spi
 
 14.02.20	7h30	Graph2: plotten, Text zu den Daten, Protokoll des Scheiterns
 
-15.02.20	4h30	Codereview, Ordnerstruktur, Texte redigieren.
+15.02.20	4h30	Codereview, Ordnerstruktur, Texte redigieren
+
+16.02.20  4h    Texte redigieren, Upload Github. 
