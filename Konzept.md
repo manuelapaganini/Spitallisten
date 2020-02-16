@@ -13,7 +13,8 @@ Auch die **Dataframes zu verarbeiten** bedeutet einigen Aufwand, entscheidend is
 Aus den Daten dann **verständliche Grafiken** zu machen, benötigt genügend Zeit. 
 Und schliesslich gilt es das ganze zu dokumentieren und zu veröffentlichen. 
 
-![Spider](https://github.com/manuelapaganini/Spitallisten/blob/master/Repository/images/Spider.png "Spider")
+
+![1](images/spider.png)
 
 Da das Thema untersucht einen eher technischen Aspekt der Gesundheitspolitik. Entsprechend beschränkt ist wohl seine mögliche Reichweite und der journalistische Impact. Besser schätze ich seinen Innovationsgrad ein, weil Netzwerk-Darstellungen eher selten in der Berichterstattung verwendet werden und sie hier passen. Mein Know-How-Aufbau ist beträchtlich, dafür ist das Potential für eine Kooperation aufgrund der Bewertungsvorgaben klein. 
 
