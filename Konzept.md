@@ -2,9 +2,9 @@
 
 #### Ausgangsthese
 
-Die Kantone legen ihre Spitallisten möglichs zu Gunsten ihrer eigenen Spitäler an. Private Spitäler im Kanton und Spitäler ausserhalb der Kantonsgrenzen werden nur berücksichtigt wo es nicht anders geht. Diese Praxis verteuert die Spitalkosten der Kantone.
+Die Kantone legen ihre Spitallisten möglichs zu Gunsten ihrer eigenen Spitäler an. Private Spitäler im Kanton und Spitäler ausserhalb der Kantonsgrenzen werden nur berücksichtigt wo es nicht anders geht. Diese Praxis verteuert die Spitalkosten der Kantone: 
 
-**=> Je mehr Auswahl ein Kanton auf seiner Spitalliste zulässt, desto tiefer sind die Spitalkosten pro Einwohnerin**
+**Je mehr Auswahl ein Kanton auf seiner Spitalliste zulässt, desto tiefer sind die Spitalkosten pro Einwohnerin.**
 
 #### Auwand und Ertrag
 
