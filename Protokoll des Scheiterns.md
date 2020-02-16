@@ -3,7 +3,7 @@
 
 ### Datengrundlage: 
 * Ich bin von existierenden Daten ausgegangen, welche in einem umständlichen Format waren. Bei der Konvertierung von PDFs zu CSV  war viel Handarbeit nötig, deshalb die Beschränkung auf lediglich drei Kantone. 
-* Dass ich mich auf drei Kantone konzentrierte, machte Sinn, weil so die Dimension des Datensatz erfassbar blieb. Allerdings sind drei Kantone zu wenig um direkte Vergleiche unter den Kantonen zu ziehen, da die Kantone vor unterschiedlichen Ausgangslagen stehen, wie Zentrumsfunktion, Sprachen, Geographie, Finanzlage des Kantons. 
+* Dass ich mich auf drei Kantone konzentrierte, machte Sinn, weil so die Dimension des Datensatzes erfassbar blieb. Allerdings sind drei Kantone zu wenig um direkte Vergleiche unter den Kantonen zu ziehen, da die Kantone vor unterschiedlichen Ausgangslagen stehen, wie Zentrumsfunktion, Sprachen, Geographie, Finanzlage des Kantons. 
 * Die Spitallisten sind ein Puzzlestein im Schweizer Spitalsystem, welches sehr komplex ist. Kausale Aussagen, wie sich Spitallisten auf die Spitalkosten oder Bettendichte des Kantons auswirken sind schwierig.
 ### Code
 * Der Umgang mit Netzwerken ist neu für mich, das Knowhow dazu konnte ich mir ein Stück weit selbst erarbeiten, aber für beim Visualisieren mit Gephi bin ich nicht weitergekommen. 
