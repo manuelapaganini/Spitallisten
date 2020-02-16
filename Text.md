@@ -1,4 +1,4 @@
-# Spitalpolitik: es gibt Unterschiede
+# Mehr Auswahl für die Patienten senkt noch keine Spitalkosten
 
 #### *Auch nach der Einführung der freien Spitalwahl bleiben die Kantonsgrenzen entscheidend. Die Kantone Bern, Freiburg und Solothurn arbeiten zusammen, allerdings aus unterschiedlichen Gründen.*
 
