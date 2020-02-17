@@ -7,7 +7,7 @@ Als Beispiel für Protektionismus der Kantone nennt Cosandey, Forschungsleiter S
 Er beobachtet, dass sich die Gesundheitsdirektoren verschiedener Kantone über die Spitallisten der anderen Kantone beschweren. Einige Fälle gingen bis vor Bundesverwaltungsgericht respektive Bundesgericht.
 
 
-#### Was ist eine Spitalliste
+#### Die Spitallisten
 
 Eingeführt wurden die Spitallisten 2012, als Teil der neuen Spitalfinanzierung. Diese Reform hatte zum Ziel, mit mehr Wettbewerb unter den Spitälern die Kosten zu senken und die Qualität zu verbessern. Spitäler, die auf der Spitalliste eines anderen Kantons stehen, können ihre Leistungen über die Grundversicherung der Patientinnen und Patienten abrechnen, ohne dass diese einen Aufpreis bezahlen müssen. 
 Die Kantone haben bei der Zusammenstellung der Listen einen beträchtlichen Spielraum, so lange die Gesundheitsversorgung für ihre Bewohner komplett gedeckt ist. Tendendiell berücksichtigen sie zuerst ihre eigenen Spitäler, dann die Privatspitäler im Kanton und erst danach die Spitäler ausserhalb des Kantons. Diese kommen meist für spezialisierte Leistungen zum Zug, welche die kantonsinternen Spitäler nicht anbieten. 
@@ -27,4 +27,4 @@ Als Patientinnen und Patienten entschieden sich die selben Personen aber häufig
 So lange die Kantone für die Spitalplanung zuständig sind, wird es laut Cosandey kaum zu einer Konzentration der Spitäler und ihren Leistungen kommen. Cosandey fände es sinnvoller wenn nicht mehr die Kantone über die Anerkennung eines Spitals entscheiden, sondern eine unabhängige Qualitätsbehörde. 
 Das ist politisch nicht in greifbarer Nähe. Um dennoch etwas mehr Wettbewerb zu ermöglichen könnten die Kantone gemäss Cosandey mehr Privatspitäler und Spitäler ausserhalb der Kantonsgrenzen auf ihren Listen zulassen. 
 
-Ausserdem brauche es mehr Transparenz, damit ein Wettbewerb in qualitativer Hinsicht spielen könne. Stand jetzt sind Vergleiche unter den Spitälern schwierig, die Vergleichsseiten, welche es im Moment gibt, sind kompliziert zu bedienen und werden wenig genutzt. Erschwerend wirkt auch, dass die Finanzierung der Spitalbehandlungen so komplex ist. Viele Ausgaben erfolgen indirekt, das nimmt den politischen Druck, sie zu hinterfragen. 
+Ausserdem brauche es mehr Transparenz, damit ein Wettbewerb in qualitativer Hinsicht spielen könne. Stand jetzt sind Vergleiche unter den Spitälern schwierig; die Vergleichsseiten welche es im Moment gibt sind kompliziert zu bedienen und werden wenig genutzt. Erschwerend wirkt auch, dass die Finanzierung der Spitalbehandlungen so komplex ist. Viele Ausgaben erfolgen indirekt, das nimmt den politischen Druck, sie zu hinterfragen. 
